@@ -1,0 +1,15 @@
+### Polybar ##
+
+/etc/polybar/config.ini
+
+### BSPWM ###
+
+.config/bspwm/bspwmrc
+
+### Locale Config ###
+
+/etc/locale.conf
+
+### SXHKDRC ###
+
+.config/sxhkd/sxhkdrc
