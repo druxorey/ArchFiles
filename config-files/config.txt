@@ -1,65 +1,38 @@
---- UpdateSystem ---
-
-
-$ sudo pacman -Syu
-
-
---- BasicAplications ---
-
+--- basic aplications ---
 
 $ sudo pacman -S xorg thunar lxappearance picom nautilus nitrogen sxhkd dmenu kitty lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings vim neovim git neofetch 
 
+--- configure pacman ---
 
---- Configure Pacman ---
+In 'sudo nano /etc/pacman.conf' 
+Uncomment 'Color; ParallelDownloads = 5; IloveCandy'
 
-In 'sudo nano /etc/pacman.conf' Uncomment 'Color; ParallelDownloads = 5; IloveCandy'
+--- desktop inicialization ---
 
-$ sudo pacman -Sy
-
-
---- System Inicialization ---
-
-
-& sudo systemctl enable lightdm
-
+$ sudo systemctl enable lightdm
 $ mkdir -p .config/{bspwm,sxhkd}
-
 $ install -Dm755 /usr/share/doc/bspwm/examples/bspwmrx .config/bspwm/
-
 $ install -Dm644 /usr/share/doc/sxhkd/examples/sxhkdrx .config/sxhkd/
 
-$ sudo systemctl enable bluetooth.service
-
-
---- InstallingEdge ---
-
+--- edge installer ---
 
 $ pacman -S base-devel
-
 $ git clone https://aur.archlinux.org/microsoft-edge-stable-bin.git
-
 $ makepkg -si
 
-
---- InstallingJava ---
-
-
-$ sudo pacman —S jdk—openjdk
-
-
---- InstallingRepositories ---
-
+--- repositories installer ---
 
 $ git clone https://aur.archlinux.org/yay.git
-
 $ makepkg -si
+$ git clone https://aur.archlinux.org/snapd.git
+$ makepkg -si
+$ sudo systemctl enable --now snapd.socket
+$ sudo ln -s /var/lib/snapd/snap /snap
 
-$ sudo pacman —S flatpak
+--- repositories programs ---
 
-$ yay -S preload
-
+$ sudo snap install code --classic
+$ sudo yay -S preload
 $ sudo systemctl enable preload && sudo systemctl start preload
-
 $ git clone https://github.com/AdnanHodzic/auto-cpufreq.git
-
 $ sudo auto-cpufreq/auto-cpufreq-installer

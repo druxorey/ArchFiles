@@ -1,6 +1,4 @@
 --- Network Configuration ---
 
-
 $ iwctl
-
 $ station <wlan> connect-hidden <Network Name>

@@ -1,2 +1,0 @@
-#!/bin/bash
-sudo pacman -S vlc polybar gedit blueman bluez-utils blueman p7zip unrar tar rsync htop exfat-utils fuse-exfat curl wget trash-cli ranger thefuck tldr
