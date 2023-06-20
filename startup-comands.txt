@@ -1,0 +1,76 @@
+--- UpdateSystem ---
+
+
+$ sudo pacman -Syu
+
+
+--- Configure Pacman ---
+
+
+$ sudo pacman -S vim nvim nano git neofetch reflector 
+
+$ sudo cp /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.bak 
+
+$ sudo reflector --verbose --latest 10 --protocol https --sort rate --save /etc/pacman.d/mirrorlist
+
+$ sudo pacman -Sy
+
+In 'sudo nano /etc/pacman.conf' Uncomment 'Color; ParallelDownloads = 5; IloveCandy'
+
+$ sudo pacman -Sy
+
+
+--- BasicAplications ---
+
+
+$ sudo pacman -S thunar lxappearance picom nautilus nitrogen sxhkd dmenu kitty lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings vlc polybar gedit blueman bluez-utils blueman p7zip unrar tar rsync htop exfat-utils fuse-exfat ntfs—3g flac j asper aria2 curl wget
+
+
+--- System Inicialization ---
+
+
+& sudo systemctl enable lightdm
+
+$ mkdir p .config/{bspwm,sxhkd}
+
+$ install -Dm755 /usr/share/doc/bspwm/examples/bspwmrx .config/bspwm/
+
+$ install -Dm755 /usr/share/doc/sxhkd/examples/sxhkdrx .config/sxhkd/
+
+$ sudo systemctl enable bluetooth.service
+
+$ sudo pacman —S intel—ucode
+
+
+--- InstallingEdge ---
+
+
+$ pacman -S base-devel
+
+$ git clone https://aur.archlinux.org/microsoft-edge-stable-bin.git
+
+$ makepkg -si
+
+
+--- InstallingJava ---
+
+
+$ sudo pacman —S jdk—openjdk
+
+
+--- InstallingRepositories ---
+
+
+$ git clone https://aur.archlinux.org/yay.git
+
+$ makepkg -si
+
+$ sudo pacman —S flatpak
+
+$ yay -S preload
+
+$ sudo systemctl enable preload && sudo systemctl start preload
+
+$ git clone https://github.com/AdnanHodzic/auto-cpufreq.git
+
+$ sudo auto-cpufreq/auto-cpufreq-installer

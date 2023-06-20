@@ -1,0 +1,6955 @@
+[
+    {
+        "timestamp": 1586218108953,
+        "family": "colors",
+        "name": "background_tab_incognito",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": true,
+        "set_to_disabled": false,
+        "from_val": "rgba(50.99523659999999,57.99232440000002,71.98649999999999,1)",
+        "from_picked_color_val": [
+            50.99523659999999,
+            57.99232440000002,
+            71.98649999999999,
+            1
+        ],
+        "from_manifest_val": [
+            51,
+            58,
+            72
+        ]
+    },
+    {
+        "timestamp": 1586218109577,
+        "family": "colors",
+        "name": "background_tab_incognito_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": true,
+        "set_to_disabled": false,
+        "from_val": "rgba(50.99523659999999,57.99232440000002,71.98649999999999,1)",
+        "from_picked_color_val": [
+            50.99523659999999,
+            57.99232440000002,
+            71.98649999999999,
+            1
+        ],
+        "from_manifest_val": [
+            51,
+            58,
+            72
+        ]
+    },
+    {
+        "timestamp": 1586218131963,
+        "family": "colors",
+        "name": "ntp_background",
+        "was_default": true,
+        "was_disabled": false,
+        "set_to_default": false,
+        "to_val": "rgba(45.9884646,51.98547640000002,63.9795,1)",
+        "to_picked_color_val": [
+            45.9884646,
+            51.98547640000002,
+            63.9795,
+            1
+        ],
+        "to_manifest_val": [
+            46,
+            52,
+            64
+        ]
+    },
+    {
+        "timestamp": 1586218142554,
+        "family": "colors",
+        "name": "toolbar",
+        "was_default": true,
+        "was_disabled": false,
+        "set_to_default": false,
+        "to_val": "rgba(45.9884646,51.98547640000002,63.9795,1)",
+        "to_picked_color_val": [
+            45.9884646,
+            51.98547640000002,
+            63.9795,
+            1
+        ],
+        "to_manifest_val": [
+            46,
+            52,
+            64
+        ]
+    },
+    {
+        "timestamp": 1586218154585,
+        "family": "colors",
+        "name": "toolbar",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": true,
+        "set_to_disabled": false,
+        "from_val": "rgba(45.9884646,51.98547640000002,63.9795,1)",
+        "from_picked_color_val": [
+            45.9884646,
+            51.98547640000002,
+            63.9795,
+            1
+        ],
+        "from_manifest_val": [
+            46,
+            52,
+            64
+        ]
+    },
+    {
+        "timestamp": 1586218157106,
+        "family": "colors",
+        "name": "frame",
+        "was_default": true,
+        "was_disabled": false,
+        "set_to_default": false,
+        "to_val": "rgba(45.9884646,51.98547640000002,63.9795,1)",
+        "to_picked_color_val": [
+            45.9884646,
+            51.98547640000002,
+            63.9795,
+            1
+        ],
+        "to_manifest_val": [
+            46,
+            52,
+            64
+        ]
+    },
+    {
+        "timestamp": 1586218160174,
+        "family": "colors",
+        "name": "frame_inactive",
+        "was_default": true,
+        "was_disabled": false,
+        "set_to_default": false,
+        "to_val": "rgba(45.9884646,51.98547640000002,63.9795,1)",
+        "to_picked_color_val": [
+            45.9884646,
+            51.98547640000002,
+            63.9795,
+            1
+        ],
+        "to_manifest_val": [
+            46,
+            52,
+            64
+        ]
+    },
+    {
+        "timestamp": 1586218163309,
+        "family": "colors",
+        "name": "frame_incognito",
+        "was_default": true,
+        "was_disabled": false,
+        "set_to_default": false,
+        "to_val": "rgba(45.9884646,51.98547640000002,63.9795,1)",
+        "to_picked_color_val": [
+            45.9884646,
+            51.98547640000002,
+            63.9795,
+            1
+        ],
+        "to_manifest_val": [
+            46,
+            52,
+            64
+        ]
+    },
+    {
+        "timestamp": 1586218165913,
+        "family": "colors",
+        "name": "frame_incognito_inactive",
+        "was_default": true,
+        "was_disabled": false,
+        "set_to_default": false,
+        "to_val": "rgba(45.9884646,51.98547640000002,63.9795,1)",
+        "to_picked_color_val": [
+            45.9884646,
+            51.98547640000002,
+            63.9795,
+            1
+        ],
+        "to_manifest_val": [
+            46,
+            52,
+            64
+        ]
+    },
+    {
+        "timestamp": 1586218180359,
+        "family": "colors",
+        "name": "toolbar",
+        "was_default": true,
+        "was_disabled": false,
+        "set_to_default": false,
+        "to_val": "rgba(45.9884646,51.98547640000002,63.9795,1)",
+        "to_picked_color_val": [
+            45.9884646,
+            51.98547640000002,
+            63.9795,
+            1
+        ],
+        "to_manifest_val": [
+            46,
+            52,
+            64
+        ]
+    },
+    {
+        "timestamp": 1586218190875,
+        "family": "colors",
+        "name": "frame_incognito_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": true,
+        "set_to_disabled": false,
+        "from_val": "rgba(45.9884646,51.98547640000002,63.9795,1)",
+        "from_picked_color_val": [
+            45.9884646,
+            51.98547640000002,
+            63.9795,
+            1
+        ],
+        "from_manifest_val": [
+            46,
+            52,
+            64
+        ]
+    },
+    {
+        "timestamp": 1586218191232,
+        "family": "colors",
+        "name": "frame_incognito",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": true,
+        "set_to_disabled": false,
+        "from_val": "rgba(45.9884646,51.98547640000002,63.9795,1)",
+        "from_picked_color_val": [
+            45.9884646,
+            51.98547640000002,
+            63.9795,
+            1
+        ],
+        "from_manifest_val": [
+            46,
+            52,
+            64
+        ]
+    },
+    {
+        "timestamp": 1586218191620,
+        "family": "colors",
+        "name": "frame_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": true,
+        "set_to_disabled": false,
+        "from_val": "rgba(45.9884646,51.98547640000002,63.9795,1)",
+        "from_picked_color_val": [
+            45.9884646,
+            51.98547640000002,
+            63.9795,
+            1
+        ],
+        "from_manifest_val": [
+            46,
+            52,
+            64
+        ]
+    },
+    {
+        "timestamp": 1586218191940,
+        "family": "colors",
+        "name": "frame",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": true,
+        "set_to_disabled": false,
+        "from_val": "rgba(45.9884646,51.98547640000002,63.9795,1)",
+        "from_picked_color_val": [
+            45.9884646,
+            51.98547640000002,
+            63.9795,
+            1
+        ],
+        "from_manifest_val": [
+            46,
+            52,
+            64
+        ]
+    },
+    {
+        "timestamp": 1586218193079,
+        "family": "colors",
+        "name": "toolbar",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": true,
+        "set_to_disabled": false,
+        "from_val": "rgba(45.9884646,51.98547640000002,63.9795,1)",
+        "from_picked_color_val": [
+            45.9884646,
+            51.98547640000002,
+            63.9795,
+            1
+        ],
+        "from_manifest_val": [
+            46,
+            52,
+            64
+        ]
+    },
+    {
+        "timestamp": 1586218205893,
+        "family": "colors",
+        "name": "ntp_background",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(45.9884646,51.98547640000002,63.9795,1)",
+        "from_picked_color_val": [
+            45.9884646,
+            51.98547640000002,
+            63.9795,
+            1
+        ],
+        "from_manifest_val": [
+            46,
+            52,
+            64
+        ],
+        "to_val": "rgba(45.9884646,51.98547640000002,63.9795,1)",
+        "to_picked_color_val": [
+            45.9884646,
+            51.98547640000002,
+            63.9795,
+            1
+        ],
+        "to_manifest_val": [
+            46,
+            52,
+            64
+        ]
+    },
+    {
+        "timestamp": 1586218215518,
+        "family": "colors",
+        "name": "toolbar",
+        "was_default": true,
+        "was_disabled": false,
+        "set_to_default": false,
+        "to_val": "rgba(70.99634520000001,79.99462710000003,98.991,1)",
+        "to_picked_color_val": [
+            70.99634520000001,
+            79.99462710000003,
+            98.991,
+            1
+        ],
+        "to_manifest_val": [
+            71,
+            80,
+            99
+        ]
+    },
+    {
+        "timestamp": 1586218251111,
+        "family": "colors",
+        "name": "toolbar",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(70.99634520000001,79.99462710000003,98.991,1)",
+        "from_picked_color_val": [
+            70.99634520000001,
+            79.99462710000003,
+            98.991,
+            1
+        ],
+        "from_manifest_val": [
+            71,
+            80,
+            99
+        ],
+        "to_val": "rgba(45.9884646,51.98547640000002,63.9795,1)",
+        "to_picked_color_val": [
+            45.9884646,
+            51.98547640000002,
+            63.9795,
+            1
+        ],
+        "to_manifest_val": [
+            46,
+            52,
+            64
+        ]
+    },
+    {
+        "timestamp": 1586218285243,
+        "family": "colors",
+        "name": "toolbar",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(45.9884646,51.98547640000002,63.9795,1)",
+        "from_picked_color_val": [
+            45.9884646,
+            51.98547640000002,
+            63.9795,
+            1
+        ],
+        "from_manifest_val": [
+            46,
+            52,
+            64
+        ],
+        "to_val": "rgba(50.99523659999999,57.99232440000002,71.98649999999999,1)",
+        "to_picked_color_val": [
+            50.99523659999999,
+            57.99232440000002,
+            71.98649999999999,
+            1
+        ],
+        "to_manifest_val": [
+            51,
+            58,
+            72
+        ]
+    },
+    {
+        "timestamp": 1586218329175,
+        "family": "colors",
+        "name": "frame_inactive",
+        "was_default": true,
+        "was_disabled": false,
+        "set_to_default": false,
+        "to_val": "rgba(72.0018,82.00120000000003,102,1)",
+        "to_picked_color_val": [
+            72.0018,
+            82.00120000000003,
+            102,
+            1
+        ],
+        "to_manifest_val": [
+            72,
+            82,
+            102
+        ]
+    },
+    {
+        "timestamp": 1586218355947,
+        "family": "colors",
+        "name": "background_tab_inactive",
+        "was_default": true,
+        "was_disabled": false,
+        "set_to_default": false,
+        "to_val": "rgba(72.0018,82.00120000000003,102,1)",
+        "to_picked_color_val": [
+            72.0018,
+            82.00120000000003,
+            102,
+            1
+        ],
+        "to_manifest_val": [
+            72,
+            82,
+            102
+        ]
+    },
+    {
+        "timestamp": 1586218377508,
+        "family": "colors",
+        "name": "background_tab_incognito",
+        "was_default": true,
+        "was_disabled": false,
+        "set_to_default": false,
+        "to_val": "rgba(72.0018,82.00120000000003,102,1)",
+        "to_picked_color_val": [
+            72.0018,
+            82.00120000000003,
+            102,
+            1
+        ],
+        "to_manifest_val": [
+            72,
+            82,
+            102
+        ]
+    },
+    {
+        "timestamp": 1586218379789,
+        "family": "colors",
+        "name": "background_tab_incognito_inactive",
+        "was_default": true,
+        "was_disabled": false,
+        "set_to_default": false,
+        "to_val": "rgba(72.0018,82.00120000000003,102,1)",
+        "to_picked_color_val": [
+            72.0018,
+            82.00120000000003,
+            102,
+            1
+        ],
+        "to_manifest_val": [
+            72,
+            82,
+            102
+        ]
+    },
+    {
+        "timestamp": 1586218401073,
+        "family": "colors",
+        "name": "frame_incognito",
+        "was_default": true,
+        "was_disabled": false,
+        "set_to_default": false,
+        "to_val": "rgba(72.0018,82.00120000000003,102,1)",
+        "to_picked_color_val": [
+            72.0018,
+            82.00120000000003,
+            102,
+            1
+        ],
+        "to_manifest_val": [
+            72,
+            82,
+            102
+        ]
+    },
+    {
+        "timestamp": 1586218403821,
+        "family": "colors",
+        "name": "frame_incognito_inactive",
+        "was_default": true,
+        "was_disabled": false,
+        "set_to_default": false,
+        "to_val": "rgba(72.0018,82.00120000000003,102,1)",
+        "to_picked_color_val": [
+            72.0018,
+            82.00120000000003,
+            102,
+            1
+        ],
+        "to_manifest_val": [
+            72,
+            82,
+            102
+        ]
+    },
+    {
+        "timestamp": 1586218407507,
+        "family": "colors",
+        "name": "background_tab_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(72.0018,82.00120000000003,102,1)",
+        "from_picked_color_val": [
+            72.0018,
+            82.00120000000003,
+            102,
+            1
+        ],
+        "from_manifest_val": [
+            72,
+            82,
+            102
+        ],
+        "to_val": "rgba(72.0018,82.00120000000003,102,1)",
+        "to_picked_color_val": [
+            72.0018,
+            82.00120000000003,
+            102,
+            1
+        ],
+        "to_manifest_val": [
+            72,
+            82,
+            102
+        ]
+    },
+    {
+        "timestamp": 1586218410486,
+        "family": "colors",
+        "name": "background_tab",
+        "was_default": true,
+        "was_disabled": false,
+        "set_to_default": false,
+        "to_val": "rgba(72.0018,82.00120000000003,102,1)",
+        "to_picked_color_val": [
+            72.0018,
+            82.00120000000003,
+            102,
+            1
+        ],
+        "to_manifest_val": [
+            72,
+            82,
+            102
+        ]
+    },
+    {
+        "timestamp": 1586218439024,
+        "family": "colors",
+        "name": "tab_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(179.97899999999998,141.9854331,172.98018504473686,1)",
+        "from_picked_color_val": [
+            179.97899999999998,
+            141.9854331,
+            172.98018504473686,
+            1
+        ],
+        "from_manifest_val": [
+            180,
+            142,
+            173
+        ],
+        "to_val": "rgba(135.9968142,191.98218093333332,207.978,1)",
+        "to_picked_color_val": [
+            135.9968142,
+            191.98218093333332,
+            207.978,
+            1
+        ],
+        "to_manifest_val": [
+            136,
+            192,
+            208
+        ]
+    },
+    {
+        "timestamp": 1586218456513,
+        "family": "colors",
+        "name": "tab_background_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(135.9968142,191.98218093333332,207.978,1)",
+        "from_picked_color_val": [
+            135.9968142,
+            191.98218093333332,
+            207.978,
+            1
+        ],
+        "from_manifest_val": [
+            136,
+            192,
+            208
+        ],
+        "to_val": "rgba(94.0138335,129.00650436538467,171.9975,1)",
+        "to_picked_color_val": [
+            94.0138335,
+            129.00650436538467,
+            171.9975,
+            1
+        ],
+        "to_manifest_val": [
+            94,
+            129,
+            172
+        ]
+    },
+    {
+        "timestamp": 1586218486967,
+        "family": "colors",
+        "name": "tab_background_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(94.0138335,129.00650436538467,171.9975,1)",
+        "from_picked_color_val": [
+            94.0138335,
+            129.00650436538467,
+            171.9975,
+            1
+        ],
+        "from_manifest_val": [
+            94,
+            129,
+            172
+        ],
+        "to_val": "rgba(162.98449184999998,189.975,139.9925775,1)",
+        "to_picked_color_val": [
+            162.98449184999998,
+            189.975,
+            139.9925775,
+            1
+        ],
+        "to_manifest_val": [
+            163,
+            190,
+            140
+        ]
+    },
+    {
+        "timestamp": 1586218514770,
+        "family": "colors",
+        "name": "tab_background_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(162.98449184999998,189.975,139.9925775,1)",
+        "from_picked_color_val": [
+            162.98449184999998,
+            189.975,
+            139.9925775,
+            1
+        ],
+        "from_manifest_val": [
+            163,
+            190,
+            140
+        ],
+        "to_val": "rgba(190.99500000000003,97.00636050000001,106.00527279255326,1)",
+        "to_picked_color_val": [
+            190.99500000000003,
+            97.00636050000001,
+            106.00527279255326,
+            1
+        ],
+        "to_manifest_val": [
+            191,
+            97,
+            106
+        ]
+    },
+    {
+        "timestamp": 1586218547326,
+        "family": "colors",
+        "name": "tab_background_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(190.99500000000003,97.00636050000001,106.00527279255326,1)",
+        "from_picked_color_val": [
+            190.99500000000003,
+            97.00636050000001,
+            106.00527279255326,
+            1
+        ],
+        "from_manifest_val": [
+            191,
+            97,
+            106
+        ],
+        "to_val": "rgba(207.978,134.99180384374995,111.99615299999999,1)",
+        "to_picked_color_val": [
+            207.978,
+            134.99180384374995,
+            111.99615299999999,
+            1
+        ],
+        "to_manifest_val": [
+            208,
+            135,
+            112
+        ]
+    },
+    {
+        "timestamp": 1586218570715,
+        "family": "colors",
+        "name": "tab_background_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(207.978,134.99180384374995,111.99615299999999,1)",
+        "from_picked_color_val": [
+            207.978,
+            134.99180384374995,
+            111.99615299999999,
+            1
+        ],
+        "from_manifest_val": [
+            208,
+            135,
+            112
+        ],
+        "to_val": "rgba(45.9884646,51.98547640000002,63.9795,1)",
+        "to_picked_color_val": [
+            45.9884646,
+            51.98547640000002,
+            63.9795,
+            1
+        ],
+        "to_manifest_val": [
+            46,
+            52,
+            64
+        ]
+    },
+    {
+        "timestamp": 1586218607164,
+        "family": "colors",
+        "name": "tab_background_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(45.9884646,51.98547640000002,63.9795,1)",
+        "from_picked_color_val": [
+            45.9884646,
+            51.98547640000002,
+            63.9795,
+            1
+        ],
+        "from_manifest_val": [
+            46,
+            52,
+            64
+        ],
+        "to_val": "rgba(188.9936172,192.988454,197.982,1)",
+        "to_picked_color_val": [
+            188.9936172,
+            192.988454,
+            197.982,
+            1
+        ],
+        "to_manifest_val": [
+            189,
+            193,
+            198
+        ]
+    },
+    {
+        "timestamp": 1586218653668,
+        "family": "colors",
+        "name": "background_tab_incognito_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(72.0018,82.00120000000003,102,1)",
+        "from_picked_color_val": [
+            72.0018,
+            82.00120000000003,
+            102,
+            1
+        ],
+        "from_manifest_val": [
+            72,
+            82,
+            102
+        ],
+        "to_val": "rgba(80.997741,91.99349400000003,113.985,1)",
+        "to_picked_color_val": [
+            80.997741,
+            91.99349400000003,
+            113.985,
+            1
+        ],
+        "to_manifest_val": [
+            81,
+            92,
+            114
+        ]
+    },
+    {
+        "timestamp": 1586218657204,
+        "family": "colors",
+        "name": "background_tab_incognito",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(72.0018,82.00120000000003,102,1)",
+        "from_picked_color_val": [
+            72.0018,
+            82.00120000000003,
+            102,
+            1
+        ],
+        "from_manifest_val": [
+            72,
+            82,
+            102
+        ],
+        "to_val": "rgba(80.997741,91.99349400000003,113.985,1)",
+        "to_picked_color_val": [
+            80.997741,
+            91.99349400000003,
+            113.985,
+            1
+        ],
+        "to_manifest_val": [
+            81,
+            92,
+            114
+        ]
+    },
+    {
+        "timestamp": 1586218661259,
+        "family": "colors",
+        "name": "background_tab_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(72.0018,82.00120000000003,102,1)",
+        "from_picked_color_val": [
+            72.0018,
+            82.00120000000003,
+            102,
+            1
+        ],
+        "from_manifest_val": [
+            72,
+            82,
+            102
+        ],
+        "to_val": "rgba(80.997741,91.99349400000003,113.985,1)",
+        "to_picked_color_val": [
+            80.997741,
+            91.99349400000003,
+            113.985,
+            1
+        ],
+        "to_manifest_val": [
+            81,
+            92,
+            114
+        ]
+    },
+    {
+        "timestamp": 1586218664283,
+        "family": "colors",
+        "name": "background_tab",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(72.0018,82.00120000000003,102,1)",
+        "from_picked_color_val": [
+            72.0018,
+            82.00120000000003,
+            102,
+            1
+        ],
+        "from_manifest_val": [
+            72,
+            82,
+            102
+        ],
+        "to_val": "rgba(80.997741,91.99349400000003,113.985,1)",
+        "to_picked_color_val": [
+            80.997741,
+            91.99349400000003,
+            113.985,
+            1
+        ],
+        "to_manifest_val": [
+            81,
+            92,
+            114
+        ]
+    },
+    {
+        "timestamp": 1586218697648,
+        "family": "colors",
+        "name": "omnibox_background",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(70.99634520000001,79.99462710000003,98.991,1)",
+        "from_picked_color_val": [
+            70.99634520000001,
+            79.99462710000003,
+            98.991,
+            1
+        ],
+        "from_manifest_val": [
+            71,
+            80,
+            99
+        ],
+        "to_val": "rgba(72.0018,82.00120000000003,102,1)",
+        "to_picked_color_val": [
+            72.0018,
+            82.00120000000003,
+            102,
+            1
+        ],
+        "to_manifest_val": [
+            72,
+            82,
+            102
+        ]
+    },
+    {
+        "timestamp": 1586218754785,
+        "family": "colors",
+        "name": "background_tab_incognito",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(80.997741,91.99349400000003,113.985,1)",
+        "from_picked_color_val": [
+            80.997741,
+            91.99349400000003,
+            113.985,
+            1
+        ],
+        "from_manifest_val": [
+            81,
+            92,
+            114
+        ],
+        "to_val": "rgba(72.0018,82.00120000000003,102,1)",
+        "to_picked_color_val": [
+            72.0018,
+            82.00120000000003,
+            102,
+            1
+        ],
+        "to_manifest_val": [
+            72,
+            82,
+            102
+        ]
+    },
+    {
+        "timestamp": 1586218757783,
+        "family": "colors",
+        "name": "background_tab_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(80.997741,91.99349400000003,113.985,1)",
+        "from_picked_color_val": [
+            80.997741,
+            91.99349400000003,
+            113.985,
+            1
+        ],
+        "from_manifest_val": [
+            81,
+            92,
+            114
+        ],
+        "to_val": "rgba(72.0018,82.00120000000003,102,1)",
+        "to_picked_color_val": [
+            72.0018,
+            82.00120000000003,
+            102,
+            1
+        ],
+        "to_manifest_val": [
+            72,
+            82,
+            102
+        ]
+    },
+    {
+        "timestamp": 1586218760858,
+        "family": "colors",
+        "name": "background_tab_incognito_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(80.997741,91.99349400000003,113.985,1)",
+        "from_picked_color_val": [
+            80.997741,
+            91.99349400000003,
+            113.985,
+            1
+        ],
+        "from_manifest_val": [
+            81,
+            92,
+            114
+        ],
+        "to_val": "rgba(72.0018,82.00120000000003,102,1)",
+        "to_picked_color_val": [
+            72.0018,
+            82.00120000000003,
+            102,
+            1
+        ],
+        "to_manifest_val": [
+            72,
+            82,
+            102
+        ]
+    },
+    {
+        "timestamp": 1586218764485,
+        "family": "colors",
+        "name": "background_tab",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(80.997741,91.99349400000003,113.985,1)",
+        "from_picked_color_val": [
+            80.997741,
+            91.99349400000003,
+            113.985,
+            1
+        ],
+        "from_manifest_val": [
+            81,
+            92,
+            114
+        ],
+        "to_val": "rgba(72.0018,82.00120000000003,102,1)",
+        "to_picked_color_val": [
+            72.0018,
+            82.00120000000003,
+            102,
+            1
+        ],
+        "to_manifest_val": [
+            72,
+            82,
+            102
+        ]
+    },
+    {
+        "timestamp": 1586218796474,
+        "family": "colors",
+        "name": "ntp_background",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(45.9884646,51.98547640000002,63.9795,1)",
+        "from_picked_color_val": [
+            45.9884646,
+            51.98547640000002,
+            63.9795,
+            1
+        ],
+        "from_manifest_val": [
+            46,
+            52,
+            64
+        ],
+        "to_val": "rgba(72.0018,82.00120000000003,102,1)",
+        "to_picked_color_val": [
+            72.0018,
+            82.00120000000003,
+            102,
+            1
+        ],
+        "to_manifest_val": [
+            72,
+            82,
+            102
+        ]
+    },
+    {
+        "timestamp": 1586218842586,
+        "family": "colors",
+        "name": "tab_background_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(188.9936172,192.988454,197.982,1)",
+        "from_picked_color_val": [
+            188.9936172,
+            192.988454,
+            197.982,
+            1
+        ],
+        "from_manifest_val": [
+            189,
+            193,
+            198
+        ],
+        "to_val": "rgba(189.01341539999999,192.99945299999996,197.982,1)",
+        "to_picked_color_val": [
+            189.01341539999999,
+            192.99945299999996,
+            197.982,
+            1
+        ],
+        "to_manifest_val": [
+            189,
+            193,
+            198
+        ]
+    },
+    {
+        "timestamp": 1586218847248,
+        "family": "colors",
+        "name": "tab_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(135.9968142,191.98218093333332,207.978,1)",
+        "from_picked_color_val": [
+            135.9968142,
+            191.98218093333332,
+            207.978,
+            1
+        ],
+        "from_manifest_val": [
+            136,
+            192,
+            208
+        ],
+        "to_val": "rgba(188.9936172,192.988454,197.982,1)",
+        "to_picked_color_val": [
+            188.9936172,
+            192.988454,
+            197.982,
+            1
+        ],
+        "to_manifest_val": [
+            189,
+            193,
+            198
+        ]
+    },
+    {
+        "timestamp": 1586218858286,
+        "family": "colors",
+        "name": "tab_background_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(189.01341539999999,192.99945299999996,197.982,1)",
+        "from_picked_color_val": [
+            189.01341539999999,
+            192.99945299999996,
+            197.982,
+            1
+        ],
+        "from_manifest_val": [
+            189,
+            193,
+            198
+        ],
+        "to_val": "rgba(135.9968142,191.98218093333332,207.978,1)",
+        "to_picked_color_val": [
+            135.9968142,
+            191.98218093333332,
+            207.978,
+            1
+        ],
+        "to_manifest_val": [
+            136,
+            192,
+            208
+        ]
+    },
+    {
+        "timestamp": 1586219192200,
+        "family": "colors",
+        "name": "ntp_background",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(72.0018,82.00120000000003,102,1)",
+        "from_picked_color_val": [
+            72.0018,
+            82.00120000000003,
+            102,
+            1
+        ],
+        "from_manifest_val": [
+            72,
+            82,
+            102
+        ],
+        "to_val": "rgba(50.99523659999999,57.99232440000002,71.98649999999999,1)",
+        "to_picked_color_val": [
+            50.99523659999999,
+            57.99232440000002,
+            71.98649999999999,
+            1
+        ],
+        "to_manifest_val": [
+            51,
+            58,
+            72
+        ]
+    },
+    {
+        "timestamp": 1586219237526,
+        "family": "colors",
+        "name": "omnibox_background",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(72.0018,82.00120000000003,102,1)",
+        "from_picked_color_val": [
+            72.0018,
+            82.00120000000003,
+            102,
+            1
+        ],
+        "from_manifest_val": [
+            72,
+            82,
+            102
+        ],
+        "to_val": "rgba(50.99523659999999,57.99232440000002,71.98649999999999,1)",
+        "to_picked_color_val": [
+            50.99523659999999,
+            57.99232440000002,
+            71.98649999999999,
+            1
+        ],
+        "to_manifest_val": [
+            51,
+            58,
+            72
+        ]
+    },
+    {
+        "timestamp": 1586219353792,
+        "family": "colors",
+        "name": "omnibox_background",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(50.99523659999999,57.99232440000002,71.98649999999999,1)",
+        "from_picked_color_val": [
+            50.99523659999999,
+            57.99232440000002,
+            71.98649999999999,
+            1
+        ],
+        "from_manifest_val": [
+            51,
+            58,
+            72
+        ],
+        "to_val": "rgba(45.9884646,51.98547640000002,63.9795,1)",
+        "to_picked_color_val": [
+            45.9884646,
+            51.98547640000002,
+            63.9795,
+            1
+        ],
+        "to_manifest_val": [
+            46,
+            52,
+            64
+        ]
+    },
+    {
+        "timestamp": 1586223294610,
+        "family": "colors",
+        "name": "tab_background_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(135.9968142,191.98218093333332,207.978,1)",
+        "from_picked_color_val": [
+            135.9968142,
+            191.98218093333332,
+            207.978,
+            1
+        ],
+        "from_manifest_val": [
+            136,
+            192,
+            208
+        ],
+        "to_val": "rgba(188.95499999999998,193.43025,198.9,1)",
+        "to_picked_color_val": [
+            188.95499999999998,
+            193.43025,
+            198.9,
+            1
+        ],
+        "to_manifest_val": [
+            189,
+            193,
+            199
+        ]
+    },
+    {
+        "timestamp": 1586223318983,
+        "family": "colors",
+        "name": "tab_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(188.9936172,192.988454,197.982,1)",
+        "from_picked_color_val": [
+            188.9936172,
+            192.988454,
+            197.982,
+            1
+        ],
+        "from_manifest_val": [
+            189,
+            193,
+            198
+        ],
+        "to_val": "rgba(135.9968142,191.98218093333332,207.978,1)",
+        "to_picked_color_val": [
+            135.9968142,
+            191.98218093333332,
+            207.978,
+            1
+        ],
+        "to_manifest_val": [
+            136,
+            192,
+            208
+        ]
+    },
+    {
+        "timestamp": 1586223385922,
+        "family": "tints",
+        "name": "buttons",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(165.39300000000003,219.0526585,255,1)",
+        "from_manifest_val": [
+            0.5668611111111111,
+            1,
+            0.8243
+        ],
+        "to_val": "rgba(178.1175,203.74500000000003,255,1)",
+        "to_manifest_val": [
+            0.611111111111111,
+            1,
+            0.8492500000000001
+        ]
+    },
+    {
+        "timestamp": 1586223487845,
+        "family": "colors",
+        "name": "background_tab",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(72.0018,82.00120000000003,102,1)",
+        "from_picked_color_val": [
+            72.0018,
+            82.00120000000003,
+            102,
+            1
+        ],
+        "from_manifest_val": [
+            72,
+            82,
+            102
+        ],
+        "to_val": "rgba(57.000099,64.99584678947369,75.99,1)",
+        "to_picked_color_val": [
+            57.000099,
+            64.99584678947369,
+            75.99,
+            1
+        ],
+        "to_manifest_val": [
+            57,
+            65,
+            76
+        ]
+    },
+    {
+        "timestamp": 1586223491746,
+        "family": "colors",
+        "name": "background_tab_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(72.0018,82.00120000000003,102,1)",
+        "from_picked_color_val": [
+            72.0018,
+            82.00120000000003,
+            102,
+            1
+        ],
+        "from_manifest_val": [
+            72,
+            82,
+            102
+        ],
+        "to_val": "rgba(57.000099,64.99584678947369,75.99,1)",
+        "to_picked_color_val": [
+            57.000099,
+            64.99584678947369,
+            75.99,
+            1
+        ],
+        "to_manifest_val": [
+            57,
+            65,
+            76
+        ]
+    },
+    {
+        "timestamp": 1586223495210,
+        "family": "colors",
+        "name": "background_tab_incognito",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(72.0018,82.00120000000003,102,1)",
+        "from_picked_color_val": [
+            72.0018,
+            82.00120000000003,
+            102,
+            1
+        ],
+        "from_manifest_val": [
+            72,
+            82,
+            102
+        ],
+        "to_val": "rgba(57.000099,64.99584678947369,75.99,1)",
+        "to_picked_color_val": [
+            57.000099,
+            64.99584678947369,
+            75.99,
+            1
+        ],
+        "to_manifest_val": [
+            57,
+            65,
+            76
+        ]
+    },
+    {
+        "timestamp": 1586223499126,
+        "family": "colors",
+        "name": "background_tab_incognito_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(72.0018,82.00120000000003,102,1)",
+        "from_picked_color_val": [
+            72.0018,
+            82.00120000000003,
+            102,
+            1
+        ],
+        "from_manifest_val": [
+            72,
+            82,
+            102
+        ],
+        "to_val": "rgba(57.000099,64.99584678947369,75.99,1)",
+        "to_picked_color_val": [
+            57.000099,
+            64.99584678947369,
+            75.99,
+            1
+        ],
+        "to_manifest_val": [
+            57,
+            65,
+            76
+        ]
+    },
+    {
+        "timestamp": 1586223554187,
+        "family": "colors",
+        "name": "tab_background_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(188.95499999999998,193.43025,198.9,1)",
+        "from_picked_color_val": [
+            188.95499999999998,
+            193.43025,
+            198.9,
+            1
+        ],
+        "from_manifest_val": [
+            189,
+            193,
+            199
+        ],
+        "to_val": "rgba(179.97899999999998,141.9854331,172.98018504473686,1)",
+        "to_picked_color_val": [
+            179.97899999999998,
+            141.9854331,
+            172.98018504473686,
+            1
+        ],
+        "to_manifest_val": [
+            180,
+            142,
+            173
+        ]
+    },
+    {
+        "timestamp": 1586223603057,
+        "family": "colors",
+        "name": "bookmark_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(93.98458500000001,128.57402175000004,170.85000000000002,1)",
+        "from_picked_color_val": [
+            93.98458500000001,
+            128.57402175000004,
+            170.85000000000002,
+            1
+        ],
+        "from_manifest_val": [
+            94,
+            129,
+            171
+        ],
+        "to_val": "rgba(188.98787969999998,192.98332782,198.9765,1)",
+        "to_picked_color_val": [
+            188.98787969999998,
+            192.98332782,
+            198.9765,
+            1
+        ],
+        "to_manifest_val": [
+            189,
+            193,
+            199
+        ]
+    },
+    {
+        "timestamp": 1586224768706,
+        "family": "colors",
+        "name": "tab_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(135.9968142,191.98218093333332,207.978,1)",
+        "from_picked_color_val": [
+            135.9968142,
+            191.98218093333332,
+            207.978,
+            1
+        ],
+        "from_manifest_val": [
+            136,
+            192,
+            208
+        ],
+        "to_val": "rgba(109.0125,177.0066780821918,255,1)",
+        "to_picked_color_val": [
+            109.0125,
+            177.0066780821918,
+            255,
+            1
+        ],
+        "to_manifest_val": [
+            109,
+            177,
+            255
+        ]
+    },
+    {
+        "timestamp": 1586224814696,
+        "family": "colors",
+        "name": "tab_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(109.0125,177.0066780821918,255,1)",
+        "from_picked_color_val": [
+            109.0125,
+            177.0066780821918,
+            255,
+            1
+        ],
+        "from_manifest_val": [
+            109,
+            177,
+            255
+        ],
+        "to_val": "rgba(116.0000559,149.99533352368428,191.9895,1)",
+        "to_picked_color_val": [
+            116.0000559,
+            149.99533352368428,
+            191.9895,
+            1
+        ],
+        "to_manifest_val": [
+            116,
+            150,
+            192
+        ]
+    },
+    {
+        "timestamp": 1586238900941,
+        "family": "theme_metadata",
+        "name": "name",
+        "locale": "en",
+        "from_val": "Nord",
+        "to_val": "Nord"
+    },
+    {
+        "timestamp": 1586238908312,
+        "family": "theme_metadata",
+        "name": "name",
+        "locale": "en",
+        "from_val": "Nord",
+        "to_val": "Nord"
+    },
+    {
+        "timestamp": 1586238910782,
+        "family": "theme_metadata",
+        "name": "name",
+        "locale": "en",
+        "from_val": "Nord",
+        "to_val": "NordChrome"
+    },
+    {
+        "timestamp": 1586238913424,
+        "family": "theme_metadata",
+        "name": "name",
+        "locale": "en",
+        "from_val": "NordChrome",
+        "to_val": "Nord-Chrome"
+    },
+    {
+        "timestamp": 1586238931624,
+        "family": "theme_metadata",
+        "name": "name",
+        "locale": "en",
+        "from_val": "Nord-Chrome",
+        "to_val": "Nord Theme for Google Chrome"
+    },
+    {
+        "timestamp": 1586238989713,
+        "family": "properties",
+        "name": "ntp_background_alignment",
+        "was_default": true,
+        "set_to_default": false,
+        "from_val": "default",
+        "to_val": "top"
+    },
+    {
+        "timestamp": 1586242007745,
+        "family": "colors",
+        "name": "omnibox_text",
+        "was_default": true,
+        "was_disabled": false,
+        "set_to_default": false,
+        "to_val": "rgba(188.95499999999998,192.93300000000002,198.9,1)",
+        "to_picked_color_val": [
+            188.95499999999998,
+            192.93300000000002,
+            198.9,
+            1
+        ],
+        "to_manifest_val": [
+            189,
+            193,
+            199
+        ]
+    },
+    {
+        "timestamp": 1586242054149,
+        "family": "colors",
+        "name": "ntp_text",
+        "was_default": true,
+        "was_disabled": false,
+        "set_to_default": false,
+        "to_val": "rgba(50.694,57.596000000000004,71.4,1)",
+        "to_picked_color_val": [
+            50.694,
+            57.596000000000004,
+            71.4,
+            1
+        ],
+        "to_manifest_val": [
+            51,
+            58,
+            71
+        ]
+    },
+    {
+        "timestamp": 1586242701939,
+        "family": "theme_metadata",
+        "name": "icon",
+        "was_default": true,
+        "set_to_default": false,
+        "to_img_id": "1586242701937qcsidtCQ"
+    },
+    {
+        "timestamp": 1586242874210,
+        "family": "colors",
+        "name": "frame",
+        "was_default": true,
+        "was_disabled": false,
+        "set_to_default": false,
+        "to_val": "rgba(72.41999999999999,82.28,102,1)",
+        "to_picked_color_val": [
+            72.41999999999999,
+            82.28,
+            102,
+            1
+        ],
+        "to_manifest_val": [
+            72,
+            82,
+            102
+        ]
+    },
+    {
+        "timestamp": 1586244116566,
+        "family": "colors",
+        "name": "background_tab",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(57.000099,64.99584678947369,75.99,1)",
+        "from_picked_color_val": [
+            57.000099,
+            64.99584678947369,
+            75.99,
+            1
+        ],
+        "from_manifest_val": [
+            57,
+            65,
+            76
+        ],
+        "to_val": "rgba(45.9884646,51.98547640000002,63.9795,1)",
+        "to_picked_color_val": [
+            45.9884646,
+            51.98547640000002,
+            63.9795,
+            1
+        ],
+        "to_manifest_val": [
+            46,
+            52,
+            64
+        ]
+    },
+    {
+        "timestamp": 1586244121563,
+        "family": "colors",
+        "name": "background_tab_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(57.000099,64.99584678947369,75.99,1)",
+        "from_picked_color_val": [
+            57.000099,
+            64.99584678947369,
+            75.99,
+            1
+        ],
+        "from_manifest_val": [
+            57,
+            65,
+            76
+        ],
+        "to_val": "rgba(45.9884646,51.98547640000002,63.9795,1)",
+        "to_picked_color_val": [
+            45.9884646,
+            51.98547640000002,
+            63.9795,
+            1
+        ],
+        "to_manifest_val": [
+            46,
+            52,
+            64
+        ]
+    },
+    {
+        "timestamp": 1586244124469,
+        "family": "colors",
+        "name": "background_tab_incognito",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(57.000099,64.99584678947369,75.99,1)",
+        "from_picked_color_val": [
+            57.000099,
+            64.99584678947369,
+            75.99,
+            1
+        ],
+        "from_manifest_val": [
+            57,
+            65,
+            76
+        ],
+        "to_val": "rgba(45.9884646,51.98547640000002,63.9795,1)",
+        "to_picked_color_val": [
+            45.9884646,
+            51.98547640000002,
+            63.9795,
+            1
+        ],
+        "to_manifest_val": [
+            46,
+            52,
+            64
+        ]
+    },
+    {
+        "timestamp": 1586244127527,
+        "family": "colors",
+        "name": "background_tab_incognito_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(57.000099,64.99584678947369,75.99,1)",
+        "from_picked_color_val": [
+            57.000099,
+            64.99584678947369,
+            75.99,
+            1
+        ],
+        "from_manifest_val": [
+            57,
+            65,
+            76
+        ],
+        "to_val": "rgba(45.9884646,51.98547640000002,63.9795,1)",
+        "to_picked_color_val": [
+            45.9884646,
+            51.98547640000002,
+            63.9795,
+            1
+        ],
+        "to_manifest_val": [
+            46,
+            52,
+            64
+        ]
+    },
+    {
+        "timestamp": 1586244253100,
+        "family": "colors",
+        "name": "tab_background_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(179.97899999999998,141.9854331,172.98018504473686,1)",
+        "from_picked_color_val": [
+            179.97899999999998,
+            141.9854331,
+            172.98018504473686,
+            1
+        ],
+        "from_manifest_val": [
+            180,
+            142,
+            173
+        ],
+        "to_val": "rgba(94.0138335,129.00650436538467,171.9975,1)",
+        "to_picked_color_val": [
+            94.0138335,
+            129.00650436538467,
+            171.9975,
+            1
+        ],
+        "to_manifest_val": [
+            94,
+            129,
+            172
+        ]
+    },
+    {
+        "timestamp": 1586244296968,
+        "family": "colors",
+        "name": "tab_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(116.0000559,149.99533352368428,191.9895,1)",
+        "from_picked_color_val": [
+            116.0000559,
+            149.99533352368428,
+            191.9895,
+            1
+        ],
+        "from_manifest_val": [
+            116,
+            150,
+            192
+        ],
+        "to_val": "rgba(72.0018,82.00120000000003,102,1)",
+        "to_picked_color_val": [
+            72.0018,
+            82.00120000000003,
+            102,
+            1
+        ],
+        "to_manifest_val": [
+            72,
+            82,
+            102
+        ]
+    },
+    {
+        "timestamp": 1586244332104,
+        "family": "colors",
+        "name": "tab_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(72.0018,82.00120000000003,102,1)",
+        "from_picked_color_val": [
+            72.0018,
+            82.00120000000003,
+            102,
+            1
+        ],
+        "from_manifest_val": [
+            72,
+            82,
+            102
+        ],
+        "to_val": "rgba(188.95499999999998,192.93300000000002,198.9,1)",
+        "to_picked_color_val": [
+            188.95499999999998,
+            192.93300000000002,
+            198.9,
+            1
+        ],
+        "to_manifest_val": [
+            189,
+            193,
+            199
+        ]
+    },
+    {
+        "timestamp": 1586245856507,
+        "family": "colors",
+        "name": "tab_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(188.95499999999998,192.93300000000002,198.9,1)",
+        "from_picked_color_val": [
+            188.95499999999998,
+            192.93300000000002,
+            198.9,
+            1
+        ],
+        "from_manifest_val": [
+            189,
+            193,
+            199
+        ],
+        "to_val": "rgba(135.9968142,191.98218093333332,207.978,1)",
+        "to_picked_color_val": [
+            135.9968142,
+            191.98218093333332,
+            207.978,
+            1
+        ],
+        "to_manifest_val": [
+            136,
+            192,
+            208
+        ]
+    },
+    {
+        "timestamp": 1586285275620,
+        "family": "colors",
+        "name": "tab_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(135.9968142,191.98218093333332,207.978,1)",
+        "from_picked_color_val": [
+            135.9968142,
+            191.98218093333332,
+            207.978,
+            1
+        ],
+        "from_manifest_val": [
+            136,
+            192,
+            208
+        ],
+        "to_val": "rgba(190.99500000000003,97.00636050000001,106.00527279255326,1)",
+        "to_picked_color_val": [
+            190.99500000000003,
+            97.00636050000001,
+            106.00527279255326,
+            1
+        ],
+        "to_manifest_val": [
+            191,
+            97,
+            106
+        ]
+    },
+    {
+        "timestamp": 1586285328996,
+        "family": "colors",
+        "name": "tab_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(190.99500000000003,97.00636050000001,106.00527279255326,1)",
+        "from_picked_color_val": [
+            190.99500000000003,
+            97.00636050000001,
+            106.00527279255326,
+            1
+        ],
+        "from_manifest_val": [
+            191,
+            97,
+            106
+        ],
+        "to_val": "rgba(207.978,134.99180384374995,111.99615299999999,1)",
+        "to_picked_color_val": [
+            207.978,
+            134.99180384374995,
+            111.99615299999999,
+            1
+        ],
+        "to_manifest_val": [
+            208,
+            135,
+            112
+        ]
+    },
+    {
+        "timestamp": 1586285371935,
+        "family": "tints",
+        "name": "buttons",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(178.09200000000004,203.72799999999998,255,1)",
+        "from_manifest_val": [
+            0.6111111111111112,
+            1,
+            0.8492000000000001
+        ],
+        "to_val": "rgba(139.34999025,190.82086000961547,254.0565,1)",
+        "to_manifest_val": [
+            0.5918803418803418,
+            0.9838155656858935,
+            0.771385275
+        ]
+    },
+    {
+        "timestamp": 1586285645372,
+        "family": "colors",
+        "name": "ntp_link",
+        "was_default": true,
+        "was_disabled": false,
+        "set_to_default": false,
+        "to_val": "rgba(50.694,57.596000000000004,71.4,1)",
+        "to_picked_color_val": [
+            50.694,
+            57.596000000000004,
+            71.4,
+            1
+        ],
+        "to_manifest_val": [
+            51,
+            58,
+            71
+        ]
+    },
+    {
+        "timestamp": 1586285648408,
+        "family": "colors",
+        "name": "ntp_header",
+        "was_default": true,
+        "was_disabled": false,
+        "set_to_default": false,
+        "to_val": "rgba(50.694,57.596000000000004,71.4,1)",
+        "to_picked_color_val": [
+            50.694,
+            57.596000000000004,
+            71.4,
+            1
+        ],
+        "to_manifest_val": [
+            51,
+            58,
+            71
+        ]
+    },
+    {
+        "timestamp": 1586303785535,
+        "family": "colors",
+        "name": "omnibox_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(188.95499999999998,192.93300000000002,198.9,1)",
+        "from_picked_color_val": [
+            188.95499999999998,
+            192.93300000000002,
+            198.9,
+            1
+        ],
+        "from_manifest_val": [
+            189,
+            193,
+            199
+        ],
+        "to_val": "rgba(179.97899999999998,141.9854331,172.98018504473686,1)",
+        "to_picked_color_val": [
+            179.97899999999998,
+            141.9854331,
+            172.98018504473686,
+            1
+        ],
+        "to_manifest_val": [
+            180,
+            142,
+            173
+        ]
+    },
+    {
+        "timestamp": 1586303875326,
+        "family": "colors",
+        "name": "omnibox_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(179.97899999999998,141.9854331,172.98018504473686,1)",
+        "from_picked_color_val": [
+            179.97899999999998,
+            141.9854331,
+            172.98018504473686,
+            1
+        ],
+        "from_manifest_val": [
+            180,
+            142,
+            173
+        ],
+        "to_val": "rgba(93.96750000000002,128.564625,170.85000000000002,1)",
+        "to_picked_color_val": [
+            93.96750000000002,
+            128.564625,
+            170.85000000000002,
+            1
+        ],
+        "to_manifest_val": [
+            94,
+            129,
+            171
+        ]
+    },
+    {
+        "timestamp": 1586303900926,
+        "family": "colors",
+        "name": "omnibox_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(93.96750000000002,128.564625,170.85000000000002,1)",
+        "from_picked_color_val": [
+            93.96750000000002,
+            128.564625,
+            170.85000000000002,
+            1
+        ],
+        "from_manifest_val": [
+            94,
+            129,
+            171
+        ],
+        "to_val": "rgba(190.99500000000003,97.00636050000001,106.00527279255326,1)",
+        "to_picked_color_val": [
+            190.99500000000003,
+            97.00636050000001,
+            106.00527279255326,
+            1
+        ],
+        "to_manifest_val": [
+            191,
+            97,
+            106
+        ]
+    },
+    {
+        "timestamp": 1586303925896,
+        "family": "colors",
+        "name": "omnibox_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(190.99500000000003,97.00636050000001,106.00527279255326,1)",
+        "from_picked_color_val": [
+            190.99500000000003,
+            97.00636050000001,
+            106.00527279255326,
+            1
+        ],
+        "from_manifest_val": [
+            191,
+            97,
+            106
+        ],
+        "to_val": "rgba(207.978,134.99180384374995,111.99615299999999,1)",
+        "to_picked_color_val": [
+            207.978,
+            134.99180384374995,
+            111.99615299999999,
+            1
+        ],
+        "to_manifest_val": [
+            208,
+            135,
+            112
+        ]
+    },
+    {
+        "timestamp": 1586304052718,
+        "family": "colors",
+        "name": "omnibox_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(207.978,134.99180384374995,111.99615299999999,1)",
+        "from_picked_color_val": [
+            207.978,
+            134.99180384374995,
+            111.99615299999999,
+            1
+        ],
+        "from_manifest_val": [
+            208,
+            135,
+            112
+        ],
+        "to_val": "rgba(140.25,191.88750000000002,255,1)",
+        "to_picked_color_val": [
+            140.25,
+            191.88750000000002,
+            255,
+            1
+        ],
+        "to_manifest_val": [
+            140,
+            192,
+            255
+        ]
+    },
+    {
+        "timestamp": 1586304077721,
+        "family": "colors",
+        "name": "omnibox_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(140.25,191.88750000000002,255,1)",
+        "from_picked_color_val": [
+            140.25,
+            191.88750000000002,
+            255,
+            1
+        ],
+        "from_manifest_val": [
+            140,
+            192,
+            255
+        ],
+        "to_val": "rgba(209.1,135.35739999999998,112.914,1)",
+        "to_picked_color_val": [
+            209.1,
+            135.35739999999998,
+            112.914,
+            1
+        ],
+        "to_manifest_val": [
+            209,
+            135,
+            113
+        ]
+    },
+    {
+        "timestamp": 1586318376189,
+        "family": "theme_metadata",
+        "name": "description",
+        "locale": "en",
+        "from_val": "",
+        "to_val": "B"
+    },
+    {
+        "timestamp": 1586318378932,
+        "family": "theme_metadata",
+        "name": "description",
+        "locale": "en",
+        "from_val": "B",
+        "to_val": ""
+    },
+    {
+        "timestamp": 1586318385607,
+        "family": "theme_metadata",
+        "name": "description",
+        "locale": "en",
+        "from_val": "",
+        "to_val": "Author: s9"
+    },
+    {
+        "timestamp": 1586318390834,
+        "family": "theme_metadata",
+        "name": "description",
+        "locale": "en",
+        "from_val": "Author: s9",
+        "to_val": "Author: sublime9-design"
+    },
+    {
+        "timestamp": 1586318396823,
+        "family": "theme_metadata",
+        "name": "name",
+        "locale": "en",
+        "from_val": "Nord Theme for Google Chrome",
+        "to_val": "Nordfor Google Chrome"
+    },
+    {
+        "timestamp": 1586318397847,
+        "family": "theme_metadata",
+        "name": "name",
+        "locale": "en",
+        "from_val": "Nordfor Google Chrome",
+        "to_val": "Nord for Google Chrome"
+    },
+    {
+        "timestamp": 1586318422607,
+        "family": "theme_metadata",
+        "name": "description",
+        "locale": "en",
+        "from_val": "Author: sublime9-design",
+        "to_val": "Created by sublime9design to compliment niivu's Nord Windows 10 Theme Suite."
+    },
+    {
+        "timestamp": 1586318473328,
+        "family": "theme_metadata",
+        "name": "description",
+        "locale": "en",
+        "from_val": "Created by sublime9design to compliment niivu's Nord Windows 10 Theme Suite.",
+        "to_val": "Created by sublime9design to compliment niivu's Windows 10 Theme Suite, Nord."
+    },
+    {
+        "timestamp": 1586318613929,
+        "family": "theme_metadata",
+        "name": "name",
+        "locale": "en",
+        "from_val": "Nord for Google Chrome",
+        "to_val": "Nord "
+    },
+    {
+        "timestamp": 1590115694707,
+        "family": "theme_metadata",
+        "name": "name",
+        "locale": "en",
+        "from_val": "Nord ",
+        "to_val": "Dracula"
+    },
+    {
+        "timestamp": 1590115707912,
+        "family": "theme_metadata",
+        "name": "description",
+        "locale": "en",
+        "from_val": "Created by sublime9design to compliment niivu's Windows 10 Theme Suite, Nord.",
+        "to_val": "Created by sublime9design to compliment niivu's Windows 10 Theme Suite, Dracula"
+    },
+    {
+        "timestamp": 1590115736672,
+        "family": "colors",
+        "name": "frame",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(72.41999999999999,82.28,102,1)",
+        "from_picked_color_val": [
+            72.41999999999999,
+            82.28,
+            102,
+            1
+        ],
+        "from_manifest_val": [
+            72,
+            82,
+            102
+        ],
+        "to_val": "rgba(20.99925,21.999214285714288,27.999000000000002,1)",
+        "to_picked_color_val": [
+            20.99925,
+            21.999214285714288,
+            27.999000000000002,
+            1
+        ],
+        "to_manifest_val": [
+            21,
+            22,
+            28
+        ]
+    },
+    {
+        "timestamp": 1590115760266,
+        "family": "colors",
+        "name": "toolbar",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(50.99523659999999,57.99232440000002,71.98649999999999,1)",
+        "from_picked_color_val": [
+            50.99523659999999,
+            57.99232440000002,
+            71.98649999999999,
+            1
+        ],
+        "from_manifest_val": [
+            51,
+            58,
+            72
+        ],
+        "to_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "to_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "to_manifest_val": [
+            29,
+            30,
+            39
+        ]
+    },
+    {
+        "timestamp": 1590115766012,
+        "family": "colors",
+        "name": "frame_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(72.0018,82.00120000000003,102,1)",
+        "from_picked_color_val": [
+            72.0018,
+            82.00120000000003,
+            102,
+            1
+        ],
+        "from_manifest_val": [
+            72,
+            82,
+            102
+        ],
+        "to_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "to_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "to_manifest_val": [
+            29,
+            30,
+            39
+        ]
+    },
+    {
+        "timestamp": 1590115769042,
+        "family": "colors",
+        "name": "frame_incognito",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(72.0018,82.00120000000003,102,1)",
+        "from_picked_color_val": [
+            72.0018,
+            82.00120000000003,
+            102,
+            1
+        ],
+        "from_manifest_val": [
+            72,
+            82,
+            102
+        ],
+        "to_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "to_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "to_manifest_val": [
+            29,
+            30,
+            39
+        ]
+    },
+    {
+        "timestamp": 1590115772496,
+        "family": "colors",
+        "name": "frame_incognito_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(72.0018,82.00120000000003,102,1)",
+        "from_picked_color_val": [
+            72.0018,
+            82.00120000000003,
+            102,
+            1
+        ],
+        "from_manifest_val": [
+            72,
+            82,
+            102
+        ],
+        "to_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "to_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "to_manifest_val": [
+            29,
+            30,
+            39
+        ]
+    },
+    {
+        "timestamp": 1590115787380,
+        "family": "colors",
+        "name": "background_tab",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(45.9884646,51.98547640000002,63.9795,1)",
+        "from_picked_color_val": [
+            45.9884646,
+            51.98547640000002,
+            63.9795,
+            1
+        ],
+        "from_manifest_val": [
+            46,
+            52,
+            64
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590115791233,
+        "family": "colors",
+        "name": "background_tab_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(45.9884646,51.98547640000002,63.9795,1)",
+        "from_picked_color_val": [
+            45.9884646,
+            51.98547640000002,
+            63.9795,
+            1
+        ],
+        "from_manifest_val": [
+            46,
+            52,
+            64
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590115796040,
+        "family": "colors",
+        "name": "background_tab_incognito_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(45.9884646,51.98547640000002,63.9795,1)",
+        "from_picked_color_val": [
+            45.9884646,
+            51.98547640000002,
+            63.9795,
+            1
+        ],
+        "from_manifest_val": [
+            46,
+            52,
+            64
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590115801004,
+        "family": "colors",
+        "name": "omnibox_background",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(45.9884646,51.98547640000002,63.9795,1)",
+        "from_picked_color_val": [
+            45.9884646,
+            51.98547640000002,
+            63.9795,
+            1
+        ],
+        "from_manifest_val": [
+            46,
+            52,
+            64
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590115819310,
+        "family": "colors",
+        "name": "bookmark_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(188.98787969999998,192.98332782,198.9765,1)",
+        "from_picked_color_val": [
+            188.98787969999998,
+            192.98332782,
+            198.9765,
+            1
+        ],
+        "from_manifest_val": [
+            189,
+            193,
+            199
+        ],
+        "to_val": "rgba(233.00472,233.00472,243.98400000000004,1)",
+        "to_picked_color_val": [
+            233.00472,
+            233.00472,
+            243.98400000000004,
+            1
+        ],
+        "to_manifest_val": [
+            233,
+            233,
+            244
+        ]
+    },
+    {
+        "timestamp": 1590115844107,
+        "family": "colors",
+        "name": "tab_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(207.978,134.99180384374995,111.99615299999999,1)",
+        "from_picked_color_val": [
+            207.978,
+            134.99180384374995,
+            111.99615299999999,
+            1
+        ],
+        "from_manifest_val": [
+            208,
+            135,
+            112
+        ],
+        "to_val": "rgba(233.98800000000003,81.00664560000003,177.99482453333343,1)",
+        "to_picked_color_val": [
+            233.98800000000003,
+            81.00664560000003,
+            177.99482453333343,
+            1
+        ],
+        "to_manifest_val": [
+            234,
+            81,
+            178
+        ]
+    },
+    {
+        "timestamp": 1590115862502,
+        "family": "colors",
+        "name": "tab_background_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(94.0138335,129.00650436538467,171.9975,1)",
+        "from_picked_color_val": [
+            94.0138335,
+            129.00650436538467,
+            171.9975,
+            1
+        ],
+        "from_manifest_val": [
+            94,
+            129,
+            172
+        ],
+        "to_val": "rgba(179.98981822112071,91.01064494999999,206.9835,1)",
+        "to_picked_color_val": [
+            179.98981822112071,
+            91.01064494999999,
+            206.9835,
+            1
+        ],
+        "to_manifest_val": [
+            180,
+            91,
+            207
+        ]
+    },
+    {
+        "timestamp": 1590115880007,
+        "family": "colors",
+        "name": "omnibox_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(209.1,135.35739999999998,112.914,1)",
+        "from_picked_color_val": [
+            209.1,
+            135.35739999999998,
+            112.914,
+            1
+        ],
+        "from_manifest_val": [
+            209,
+            135,
+            113
+        ],
+        "to_val": "rgba(161.0048682,238.98600000000002,227.98866089999999,1)",
+        "to_picked_color_val": [
+            161.0048682,
+            238.98600000000002,
+            227.98866089999999,
+            1
+        ],
+        "to_manifest_val": [
+            161,
+            239,
+            228
+        ]
+    },
+    {
+        "timestamp": 1590115897071,
+        "family": "colors",
+        "name": "ntp_background",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(50.99523659999999,57.99232440000002,71.98649999999999,1)",
+        "from_picked_color_val": [
+            50.99523659999999,
+            57.99232440000002,
+            71.98649999999999,
+            1
+        ],
+        "from_manifest_val": [
+            51,
+            58,
+            72
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590115957355,
+        "family": "colors",
+        "name": "frame",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(20.99925,21.999214285714288,27.999000000000002,1)",
+        "from_picked_color_val": [
+            20.99925,
+            21.999214285714288,
+            27.999000000000002,
+            1
+        ],
+        "from_manifest_val": [
+            21,
+            22,
+            28
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590115960119,
+        "family": "colors",
+        "name": "frame_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "from_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "from_manifest_val": [
+            29,
+            30,
+            39
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590115962914,
+        "family": "colors",
+        "name": "frame_incognito",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "from_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "from_manifest_val": [
+            29,
+            30,
+            39
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590115965858,
+        "family": "colors",
+        "name": "frame_incognito_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "from_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "from_manifest_val": [
+            29,
+            30,
+            39
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590115978655,
+        "family": "colors",
+        "name": "background_tab_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "to_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "to_manifest_val": [
+            29,
+            30,
+            39
+        ]
+    },
+    {
+        "timestamp": 1590115981890,
+        "family": "colors",
+        "name": "background_tab",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "to_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "to_manifest_val": [
+            29,
+            30,
+            39
+        ]
+    },
+    {
+        "timestamp": 1590115984520,
+        "family": "colors",
+        "name": "background_tab_incognito",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(45.9884646,51.98547640000002,63.9795,1)",
+        "from_picked_color_val": [
+            45.9884646,
+            51.98547640000002,
+            63.9795,
+            1
+        ],
+        "from_manifest_val": [
+            46,
+            52,
+            64
+        ],
+        "to_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "to_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "to_manifest_val": [
+            29,
+            30,
+            39
+        ]
+    },
+    {
+        "timestamp": 1590115987438,
+        "family": "colors",
+        "name": "background_tab_incognito_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "to_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "to_manifest_val": [
+            29,
+            30,
+            39
+        ]
+    },
+    {
+        "timestamp": 1590116023073,
+        "family": "colors",
+        "name": "ntp_header",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(50.694,57.596000000000004,71.4,1)",
+        "from_picked_color_val": [
+            50.694,
+            57.596000000000004,
+            71.4,
+            1
+        ],
+        "from_manifest_val": [
+            51,
+            58,
+            71
+        ],
+        "to_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "to_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "to_manifest_val": [
+            29,
+            30,
+            39
+        ]
+    },
+    {
+        "timestamp": 1590116025942,
+        "family": "colors",
+        "name": "ntp_link",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(50.694,57.596000000000004,71.4,1)",
+        "from_picked_color_val": [
+            50.694,
+            57.596000000000004,
+            71.4,
+            1
+        ],
+        "from_manifest_val": [
+            51,
+            58,
+            71
+        ],
+        "to_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "to_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "to_manifest_val": [
+            29,
+            30,
+            39
+        ]
+    },
+    {
+        "timestamp": 1590116028783,
+        "family": "colors",
+        "name": "ntp_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(50.694,57.596000000000004,71.4,1)",
+        "from_picked_color_val": [
+            50.694,
+            57.596000000000004,
+            71.4,
+            1
+        ],
+        "from_manifest_val": [
+            51,
+            58,
+            71
+        ],
+        "to_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "to_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "to_manifest_val": [
+            29,
+            30,
+            39
+        ]
+    },
+    {
+        "timestamp": 1590116062080,
+        "family": "colors",
+        "name": "tab_background_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(179.98981822112071,91.01064494999999,206.9835,1)",
+        "from_picked_color_val": [
+            179.98981822112071,
+            91.01064494999999,
+            206.9835,
+            1
+        ],
+        "from_manifest_val": [
+            180,
+            91,
+            207
+        ],
+        "to_val": "rgba(0,246.993,104.99702429149812,1)",
+        "to_picked_color_val": [
+            0,
+            246.993,
+            104.99702429149812,
+            1
+        ],
+        "to_manifest_val": [
+            0,
+            247,
+            105
+        ]
+    },
+    {
+        "timestamp": 1590116086158,
+        "family": "colors",
+        "name": "tab_background_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(0,246.993,104.99702429149812,1)",
+        "from_picked_color_val": [
+            0,
+            246.993,
+            104.99702429149812,
+            1
+        ],
+        "from_manifest_val": [
+            0,
+            247,
+            105
+        ],
+        "to_val": "rgba(188.99198399999995,146.99897280000002,248.982,1)",
+        "to_picked_color_val": [
+            188.99198399999995,
+            146.99897280000002,
+            248.982,
+            1
+        ],
+        "to_manifest_val": [
+            189,
+            147,
+            249
+        ]
+    },
+    {
+        "timestamp": 1590116145365,
+        "family": "colors",
+        "name": "toolbar",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "from_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "from_manifest_val": [
+            29,
+            30,
+            39
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590116162926,
+        "family": "colors",
+        "name": "toolbar",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590116165550,
+        "family": "colors",
+        "name": "frame",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590116169661,
+        "family": "colors",
+        "name": "frame_incognito",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590116173545,
+        "family": "colors",
+        "name": "background_tab",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "from_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "from_manifest_val": [
+            29,
+            30,
+            39
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590116176084,
+        "family": "colors",
+        "name": "background_tab_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "from_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "from_manifest_val": [
+            29,
+            30,
+            39
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590116178425,
+        "family": "colors",
+        "name": "background_tab_incognito_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "from_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "from_manifest_val": [
+            29,
+            30,
+            39
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590116181611,
+        "family": "colors",
+        "name": "omnibox_background",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590116184217,
+        "family": "colors",
+        "name": "background_tab_incognito",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "from_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "from_manifest_val": [
+            29,
+            30,
+            39
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590116187056,
+        "family": "colors",
+        "name": "frame_incognito",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(39.9909768,41.98990868571431,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.98990868571431,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590116294741,
+        "family": "colors",
+        "name": "frame",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "to_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "to_manifest_val": [
+            58,
+            60,
+            78
+        ]
+    },
+    {
+        "timestamp": 1590116297866,
+        "family": "colors",
+        "name": "frame_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "to_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "to_manifest_val": [
+            58,
+            60,
+            78
+        ]
+    },
+    {
+        "timestamp": 1590116300352,
+        "family": "colors",
+        "name": "frame_incognito",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.98990868571431,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.98990868571431,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "to_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "to_manifest_val": [
+            58,
+            60,
+            78
+        ]
+    },
+    {
+        "timestamp": 1590116303346,
+        "family": "colors",
+        "name": "frame_incognito_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "to_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "to_manifest_val": [
+            58,
+            60,
+            78
+        ]
+    },
+    {
+        "timestamp": 1590116333752,
+        "family": "colors",
+        "name": "background_tab",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(97.99623734999999,99.99607144999999,130.99349999999998,1)",
+        "to_picked_color_val": [
+            97.99623734999999,
+            99.99607144999999,
+            130.99349999999998,
+            1
+        ],
+        "to_manifest_val": [
+            98,
+            100,
+            131
+        ]
+    },
+    {
+        "timestamp": 1590116336410,
+        "family": "colors",
+        "name": "background_tab_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(97.99623734999999,99.99607144999999,130.99349999999998,1)",
+        "to_picked_color_val": [
+            97.99623734999999,
+            99.99607144999999,
+            130.99349999999998,
+            1
+        ],
+        "to_manifest_val": [
+            98,
+            100,
+            131
+        ]
+    },
+    {
+        "timestamp": 1590116339050,
+        "family": "colors",
+        "name": "background_tab_incognito",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(97.99623734999999,99.99607144999999,130.99349999999998,1)",
+        "to_picked_color_val": [
+            97.99623734999999,
+            99.99607144999999,
+            130.99349999999998,
+            1
+        ],
+        "to_manifest_val": [
+            98,
+            100,
+            131
+        ]
+    },
+    {
+        "timestamp": 1590116341866,
+        "family": "colors",
+        "name": "background_tab_incognito_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(97.99623734999999,99.99607144999999,130.99349999999998,1)",
+        "to_picked_color_val": [
+            97.99623734999999,
+            99.99607144999999,
+            130.99349999999998,
+            1
+        ],
+        "to_manifest_val": [
+            98,
+            100,
+            131
+        ]
+    },
+    {
+        "timestamp": 1590116346117,
+        "family": "colors",
+        "name": "omnibox_background",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(97.99623734999999,99.99607144999999,130.99349999999998,1)",
+        "to_picked_color_val": [
+            97.99623734999999,
+            99.99607144999999,
+            130.99349999999998,
+            1
+        ],
+        "to_manifest_val": [
+            98,
+            100,
+            131
+        ]
+    },
+    {
+        "timestamp": 1590116393198,
+        "family": "colors",
+        "name": "omnibox_background",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(97.99623734999999,99.99607144999999,130.99349999999998,1)",
+        "from_picked_color_val": [
+            97.99623734999999,
+            99.99607144999999,
+            130.99349999999998,
+            1
+        ],
+        "from_manifest_val": [
+            98,
+            100,
+            131
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590116395921,
+        "family": "colors",
+        "name": "background_tab_incognito_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(97.99623734999999,99.99607144999999,130.99349999999998,1)",
+        "from_picked_color_val": [
+            97.99623734999999,
+            99.99607144999999,
+            130.99349999999998,
+            1
+        ],
+        "from_manifest_val": [
+            98,
+            100,
+            131
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590116398354,
+        "family": "colors",
+        "name": "background_tab_incognito",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(97.99623734999999,99.99607144999999,130.99349999999998,1)",
+        "from_picked_color_val": [
+            97.99623734999999,
+            99.99607144999999,
+            130.99349999999998,
+            1
+        ],
+        "from_manifest_val": [
+            98,
+            100,
+            131
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590116400836,
+        "family": "colors",
+        "name": "background_tab_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(97.99623734999999,99.99607144999999,130.99349999999998,1)",
+        "from_picked_color_val": [
+            97.99623734999999,
+            99.99607144999999,
+            130.99349999999998,
+            1
+        ],
+        "from_manifest_val": [
+            98,
+            100,
+            131
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590116403338,
+        "family": "colors",
+        "name": "background_tab",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(97.99623734999999,99.99607144999999,130.99349999999998,1)",
+        "from_picked_color_val": [
+            97.99623734999999,
+            99.99607144999999,
+            130.99349999999998,
+            1
+        ],
+        "from_manifest_val": [
+            98,
+            100,
+            131
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590116440858,
+        "family": "colors",
+        "name": "frame",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "from_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "from_manifest_val": [
+            58,
+            60,
+            78
+        ],
+        "to_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "to_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "to_manifest_val": [
+            29,
+            30,
+            39
+        ]
+    },
+    {
+        "timestamp": 1590116444654,
+        "family": "colors",
+        "name": "frame_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "from_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "from_manifest_val": [
+            58,
+            60,
+            78
+        ],
+        "to_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "to_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "to_manifest_val": [
+            29,
+            30,
+            39
+        ]
+    },
+    {
+        "timestamp": 1590116447560,
+        "family": "colors",
+        "name": "frame_incognito",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "from_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "from_manifest_val": [
+            58,
+            60,
+            78
+        ],
+        "to_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "to_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "to_manifest_val": [
+            29,
+            30,
+            39
+        ]
+    },
+    {
+        "timestamp": 1590116450109,
+        "family": "colors",
+        "name": "frame_incognito_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "from_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "from_manifest_val": [
+            58,
+            60,
+            78
+        ],
+        "to_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "to_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "to_manifest_val": [
+            29,
+            30,
+            39
+        ]
+    },
+    {
+        "timestamp": 1590116480429,
+        "family": "colors",
+        "name": "frame",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "from_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "from_manifest_val": [
+            29,
+            30,
+            39
+        ],
+        "to_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "to_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "to_manifest_val": [
+            58,
+            60,
+            78
+        ]
+    },
+    {
+        "timestamp": 1590116483093,
+        "family": "colors",
+        "name": "frame_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "from_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "from_manifest_val": [
+            29,
+            30,
+            39
+        ],
+        "to_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "to_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "to_manifest_val": [
+            58,
+            60,
+            78
+        ]
+    },
+    {
+        "timestamp": 1590116485963,
+        "family": "colors",
+        "name": "frame_incognito",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "from_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "from_manifest_val": [
+            29,
+            30,
+            39
+        ],
+        "to_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "to_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "to_manifest_val": [
+            58,
+            60,
+            78
+        ]
+    },
+    {
+        "timestamp": 1590116489001,
+        "family": "colors",
+        "name": "frame_incognito_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "from_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "from_manifest_val": [
+            29,
+            30,
+            39
+        ],
+        "to_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "to_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "to_manifest_val": [
+            58,
+            60,
+            78
+        ]
+    },
+    {
+        "timestamp": 1590116526370,
+        "family": "colors",
+        "name": "ntp_background",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "to_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "to_manifest_val": [
+            58,
+            60,
+            78
+        ]
+    },
+    {
+        "timestamp": 1590116530647,
+        "family": "colors",
+        "name": "omnibox_background",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "to_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "to_manifest_val": [
+            58,
+            60,
+            78
+        ]
+    },
+    {
+        "timestamp": 1590116570985,
+        "family": "colors",
+        "name": "background_tab",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(65.998692,68.9982104347826,88.99499999999999,1)",
+        "to_picked_color_val": [
+            65.998692,
+            68.9982104347826,
+            88.99499999999999,
+            1
+        ],
+        "to_manifest_val": [
+            66,
+            69,
+            89
+        ]
+    },
+    {
+        "timestamp": 1590116573556,
+        "family": "colors",
+        "name": "background_tab_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(65.998692,68.9982104347826,88.99499999999999,1)",
+        "to_picked_color_val": [
+            65.998692,
+            68.9982104347826,
+            88.99499999999999,
+            1
+        ],
+        "to_manifest_val": [
+            66,
+            69,
+            89
+        ]
+    },
+    {
+        "timestamp": 1590116576324,
+        "family": "colors",
+        "name": "background_tab_incognito",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(65.998692,68.9982104347826,88.99499999999999,1)",
+        "to_picked_color_val": [
+            65.998692,
+            68.9982104347826,
+            88.99499999999999,
+            1
+        ],
+        "to_manifest_val": [
+            66,
+            69,
+            89
+        ]
+    },
+    {
+        "timestamp": 1590116579160,
+        "family": "colors",
+        "name": "background_tab_incognito_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(65.998692,68.9982104347826,88.99499999999999,1)",
+        "to_picked_color_val": [
+            65.998692,
+            68.9982104347826,
+            88.99499999999999,
+            1
+        ],
+        "to_manifest_val": [
+            66,
+            69,
+            89
+        ]
+    },
+    {
+        "timestamp": 1590116633806,
+        "family": "colors",
+        "name": "background_tab",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(65.998692,68.9982104347826,88.99499999999999,1)",
+        "from_picked_color_val": [
+            65.998692,
+            68.9982104347826,
+            88.99499999999999,
+            1
+        ],
+        "from_manifest_val": [
+            66,
+            69,
+            89
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590116636749,
+        "family": "colors",
+        "name": "background_tab_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(65.998692,68.9982104347826,88.99499999999999,1)",
+        "from_picked_color_val": [
+            65.998692,
+            68.9982104347826,
+            88.99499999999999,
+            1
+        ],
+        "from_manifest_val": [
+            66,
+            69,
+            89
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590116638664,
+        "family": "colors",
+        "name": "background_tab_incognito",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(65.998692,68.9982104347826,88.99499999999999,1)",
+        "from_picked_color_val": [
+            65.998692,
+            68.9982104347826,
+            88.99499999999999,
+            1
+        ],
+        "from_manifest_val": [
+            66,
+            69,
+            89
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590116640584,
+        "family": "colors",
+        "name": "background_tab_incognito_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(65.998692,68.9982104347826,88.99499999999999,1)",
+        "from_picked_color_val": [
+            65.998692,
+            68.9982104347826,
+            88.99499999999999,
+            1
+        ],
+        "from_manifest_val": [
+            66,
+            69,
+            89
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590116661839,
+        "family": "colors",
+        "name": "background_tab",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "to_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "to_manifest_val": [
+            29,
+            30,
+            39
+        ]
+    },
+    {
+        "timestamp": 1590116663861,
+        "family": "colors",
+        "name": "background_tab_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "to_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "to_manifest_val": [
+            29,
+            30,
+            39
+        ]
+    },
+    {
+        "timestamp": 1590116665871,
+        "family": "colors",
+        "name": "background_tab_incognito",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "to_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "to_manifest_val": [
+            29,
+            30,
+            39
+        ]
+    },
+    {
+        "timestamp": 1590116667728,
+        "family": "colors",
+        "name": "background_tab_incognito_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "to_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "to_manifest_val": [
+            29,
+            30,
+            39
+        ]
+    },
+    {
+        "timestamp": 1590116714765,
+        "family": "colors",
+        "name": "tab_background_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(188.99198399999995,146.99897280000002,248.982,1)",
+        "from_picked_color_val": [
+            188.99198399999995,
+            146.99897280000002,
+            248.982,
+            1
+        ],
+        "from_manifest_val": [
+            189,
+            147,
+            249
+        ],
+        "to_val": "rgba(161.0048682,238.98600000000002,227.98866089999999,1)",
+        "to_picked_color_val": [
+            161.0048682,
+            238.98600000000002,
+            227.98866089999999,
+            1
+        ],
+        "to_manifest_val": [
+            161,
+            239,
+            228
+        ]
+    },
+    {
+        "timestamp": 1590116751204,
+        "family": "colors",
+        "name": "background_tab",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "from_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "from_manifest_val": [
+            29,
+            30,
+            39
+        ],
+        "to_val": "rgba(28.9775268,29.976174119999992,38.964,1)",
+        "to_picked_color_val": [
+            28.9775268,
+            29.976174119999992,
+            38.964,
+            1
+        ],
+        "to_manifest_val": [
+            29,
+            30,
+            39
+        ]
+    },
+    {
+        "timestamp": 1590116754114,
+        "family": "colors",
+        "name": "omnibox_background",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "from_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "from_manifest_val": [
+            58,
+            60,
+            78
+        ],
+        "to_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "to_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "to_manifest_val": [
+            29,
+            30,
+            39
+        ]
+    },
+    {
+        "timestamp": 1590116794647,
+        "family": "colors",
+        "name": "omnibox_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(161.0048682,238.98600000000002,227.98866089999999,1)",
+        "from_picked_color_val": [
+            161.0048682,
+            238.98600000000002,
+            227.98866089999999,
+            1
+        ],
+        "from_manifest_val": [
+            161,
+            239,
+            228
+        ],
+        "to_val": "rgba(0,246.993,104.99702429149812,1)",
+        "to_picked_color_val": [
+            0,
+            246.993,
+            104.99702429149812,
+            1
+        ],
+        "to_manifest_val": [
+            0,
+            247,
+            105
+        ]
+    },
+    {
+        "timestamp": 1590116829314,
+        "family": "colors",
+        "name": "tab_background_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(161.0048682,238.98600000000002,227.98866089999999,1)",
+        "from_picked_color_val": [
+            161.0048682,
+            238.98600000000002,
+            227.98866089999999,
+            1
+        ],
+        "from_manifest_val": [
+            161,
+            239,
+            228
+        ],
+        "to_val": "rgba(179.98981822112071,91.01064494999999,206.9835,1)",
+        "to_picked_color_val": [
+            179.98981822112071,
+            91.01064494999999,
+            206.9835,
+            1
+        ],
+        "to_manifest_val": [
+            180,
+            91,
+            207
+        ]
+    },
+    {
+        "timestamp": 1590116853248,
+        "family": "colors",
+        "name": "tab_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(233.98800000000003,81.00664560000003,177.99482453333343,1)",
+        "from_picked_color_val": [
+            233.98800000000003,
+            81.00664560000003,
+            177.99482453333343,
+            1
+        ],
+        "from_manifest_val": [
+            234,
+            81,
+            178
+        ],
+        "to_val": "rgba(255,121.02300000000001,198.00978358208974,1)",
+        "to_picked_color_val": [
+            255,
+            121.02300000000001,
+            198.00978358208974,
+            1
+        ],
+        "to_manifest_val": [
+            255,
+            121,
+            198
+        ]
+    },
+    {
+        "timestamp": 1590116870650,
+        "family": "colors",
+        "name": "tab_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(255,121.02300000000001,198.00978358208974,1)",
+        "from_picked_color_val": [
+            255,
+            121.02300000000001,
+            198.00978358208974,
+            1
+        ],
+        "from_manifest_val": [
+            255,
+            121,
+            198
+        ],
+        "to_val": "rgba(188.99198399999995,146.99897280000002,248.982,1)",
+        "to_picked_color_val": [
+            188.99198399999995,
+            146.99897280000002,
+            248.982,
+            1
+        ],
+        "to_manifest_val": [
+            189,
+            147,
+            249
+        ]
+    },
+    {
+        "timestamp": 1590116906169,
+        "family": "colors",
+        "name": "tab_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(188.99198399999995,146.99897280000002,248.982,1)",
+        "from_picked_color_val": [
+            188.99198399999995,
+            146.99897280000002,
+            248.982,
+            1
+        ],
+        "from_manifest_val": [
+            189,
+            147,
+            249
+        ],
+        "to_val": "rgba(98.01957750000001,214.00176414179097,231.99900000000002,1)",
+        "to_picked_color_val": [
+            98.01957750000001,
+            214.00176414179097,
+            231.99900000000002,
+            1
+        ],
+        "to_manifest_val": [
+            98,
+            214,
+            232
+        ]
+    },
+    {
+        "timestamp": 1590116937762,
+        "family": "colors",
+        "name": "omnibox_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(0,246.993,104.99702429149812,1)",
+        "from_picked_color_val": [
+            0,
+            246.993,
+            104.99702429149812,
+            1
+        ],
+        "from_manifest_val": [
+            0,
+            247,
+            105
+        ],
+        "to_val": "rgba(161.0048682,238.98600000000002,227.98866089999999,1)",
+        "to_picked_color_val": [
+            161.0048682,
+            238.98600000000002,
+            227.98866089999999,
+            1
+        ],
+        "to_manifest_val": [
+            161,
+            239,
+            228
+        ]
+    },
+    {
+        "timestamp": 1590116945430,
+        "family": "tints",
+        "name": "buttons",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(139.30775969999996,190.8102539093,254.05524030000004,1)",
+        "from_manifest_val": [
+            0.5918611111111111,
+            0.9838000000000003,
+            0.7713
+        ],
+        "to_val": "rgba(161.0048682,238.98600000000002,227.98866089999999,1)",
+        "to_manifest_val": [
+            0.47649572649572647,
+            0.7088605329762271,
+            0.7842958200000001
+        ]
+    },
+    {
+        "timestamp": 1590116976883,
+        "family": "colors",
+        "name": "bookmark_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(233.00472,233.00472,243.98400000000004,1)",
+        "from_picked_color_val": [
+            233.00472,
+            233.00472,
+            243.98400000000004,
+            1
+        ],
+        "from_manifest_val": [
+            233,
+            233,
+            244
+        ],
+        "to_val": "rgba(161.0048682,238.98600000000002,227.98866089999999,1)",
+        "to_picked_color_val": [
+            161.0048682,
+            238.98600000000002,
+            227.98866089999999,
+            1
+        ],
+        "to_manifest_val": [
+            161,
+            239,
+            228
+        ]
+    },
+    {
+        "timestamp": 1590117016687,
+        "family": "colors",
+        "name": "omnibox_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(161.0048682,238.98600000000002,227.98866089999999,1)",
+        "from_picked_color_val": [
+            161.0048682,
+            238.98600000000002,
+            227.98866089999999,
+            1
+        ],
+        "from_manifest_val": [
+            161,
+            239,
+            228
+        ],
+        "to_val": "rgba(98.01957750000001,214.00176414179097,231.99900000000002,1)",
+        "to_picked_color_val": [
+            98.01957750000001,
+            214.00176414179097,
+            231.99900000000002,
+            1
+        ],
+        "to_manifest_val": [
+            98,
+            214,
+            232
+        ]
+    },
+    {
+        "timestamp": 1590117047991,
+        "family": "colors",
+        "name": "bookmark_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(161.0048682,238.98600000000002,227.98866089999999,1)",
+        "from_picked_color_val": [
+            161.0048682,
+            238.98600000000002,
+            227.98866089999999,
+            1
+        ],
+        "from_manifest_val": [
+            161,
+            239,
+            228
+        ],
+        "to_val": "rgba(188.98787969999998,192.98332782,198.9765,1)",
+        "to_picked_color_val": [
+            188.98787969999998,
+            192.98332782,
+            198.9765,
+            1
+        ],
+        "to_manifest_val": [
+            189,
+            193,
+            199
+        ]
+    },
+    {
+        "timestamp": 1590117085735,
+        "family": "colors",
+        "name": "tab_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(98.01957750000001,214.00176414179097,231.99900000000002,1)",
+        "from_picked_color_val": [
+            98.01957750000001,
+            214.00176414179097,
+            231.99900000000002,
+            1
+        ],
+        "from_manifest_val": [
+            98,
+            214,
+            232
+        ],
+        "to_val": "rgba(0,246.993,104.99702429149812,1)",
+        "to_picked_color_val": [
+            0,
+            246.993,
+            104.99702429149812,
+            1
+        ],
+        "to_manifest_val": [
+            0,
+            247,
+            105
+        ]
+    },
+    {
+        "timestamp": 1590117109614,
+        "family": "colors",
+        "name": "tab_background_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(179.98981822112071,91.01064494999999,206.9835,1)",
+        "from_picked_color_val": [
+            179.98981822112071,
+            91.01064494999999,
+            206.9835,
+            1
+        ],
+        "from_manifest_val": [
+            180,
+            91,
+            207
+        ],
+        "to_val": "rgba(179.98981822112071,91.01064494999999,206.9835,1)",
+        "to_picked_color_val": [
+            179.98981822112071,
+            91.01064494999999,
+            206.9835,
+            1
+        ],
+        "to_manifest_val": [
+            180,
+            91,
+            207
+        ]
+    },
+    {
+        "timestamp": 1590117154166,
+        "family": "colors",
+        "name": "omnibox_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(98.01957750000001,214.00176414179097,231.99900000000002,1)",
+        "from_picked_color_val": [
+            98.01957750000001,
+            214.00176414179097,
+            231.99900000000002,
+            1
+        ],
+        "from_manifest_val": [
+            98,
+            214,
+            232
+        ],
+        "to_val": "rgba(235.00374999999994,255,135.0225,1)",
+        "to_picked_color_val": [
+            235.00374999999994,
+            255,
+            135.0225,
+            1
+        ],
+        "to_manifest_val": [
+            235,
+            255,
+            135
+        ]
+    },
+    {
+        "timestamp": 1590117204485,
+        "family": "colors",
+        "name": "omnibox_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(235.00374999999994,255,135.0225,1)",
+        "from_picked_color_val": [
+            235.00374999999994,
+            255,
+            135.0225,
+            1
+        ],
+        "from_manifest_val": [
+            235,
+            255,
+            135
+        ],
+        "to_val": "rgba(240.97939126227274,249.97650000000002,140.01183765000002,1)",
+        "to_picked_color_val": [
+            240.97939126227274,
+            249.97650000000002,
+            140.01183765000002,
+            1
+        ],
+        "to_manifest_val": [
+            241,
+            250,
+            140
+        ]
+    },
+    {
+        "timestamp": 1590117236077,
+        "family": "tints",
+        "name": "buttons",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(161.0048682,238.98600000000002,227.98866089999999,1)",
+        "from_manifest_val": [
+            0.47649572649572647,
+            0.7088605329762271,
+            0.7842958200000001
+        ],
+        "to_val": "rgba(240.97939126227274,249.97650000000002,140.01183765000002,1)",
+        "to_manifest_val": [
+            0.1803030303030303,
+            0.9162831361280619,
+            0.7646830150000001
+        ]
+    },
+    {
+        "timestamp": 1590117279376,
+        "family": "colors",
+        "name": "omnibox_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(240.97939126227274,249.97650000000002,140.01183765000002,1)",
+        "from_picked_color_val": [
+            240.97939126227274,
+            249.97650000000002,
+            140.01183765000002,
+            1
+        ],
+        "from_manifest_val": [
+            241,
+            250,
+            140
+        ],
+        "to_val": "rgba(97.99623734999999,99.99607144999999,130.99349999999998,1)",
+        "to_picked_color_val": [
+            97.99623734999999,
+            99.99607144999999,
+            130.99349999999998,
+            1
+        ],
+        "to_manifest_val": [
+            98,
+            100,
+            131
+        ]
+    },
+    {
+        "timestamp": 1590117313338,
+        "family": "colors",
+        "name": "bookmark_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(188.98787969999998,192.98332782,198.9765,1)",
+        "from_picked_color_val": [
+            188.98787969999998,
+            192.98332782,
+            198.9765,
+            1
+        ],
+        "from_manifest_val": [
+            189,
+            193,
+            199
+        ],
+        "to_val": "rgba(97.99623734999999,99.99607144999999,130.99349999999998,1)",
+        "to_picked_color_val": [
+            97.99623734999999,
+            99.99607144999999,
+            130.99349999999998,
+            1
+        ],
+        "to_manifest_val": [
+            98,
+            100,
+            131
+        ]
+    },
+    {
+        "timestamp": 1590117337340,
+        "family": "tints",
+        "name": "buttons",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(240.97939126227274,249.97650000000002,140.01183765000002,1)",
+        "from_manifest_val": [
+            0.1803030303030303,
+            0.9162831361280619,
+            0.7646830150000001
+        ],
+        "to_val": "rgba(97.99623734999999,99.99607144999999,130.99349999999998,1)",
+        "to_manifest_val": [
+            0.6565656565656566,
+            0.14409930781991875,
+            0.448999485
+        ]
+    },
+    {
+        "timestamp": 1590117399688,
+        "family": "colors",
+        "name": "omnibox_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(97.99623734999999,99.99607144999999,130.99349999999998,1)",
+        "from_picked_color_val": [
+            97.99623734999999,
+            99.99607144999999,
+            130.99349999999998,
+            1
+        ],
+        "from_manifest_val": [
+            98,
+            100,
+            131
+        ],
+        "to_val": "rgba(233.00472,233.00472,243.98400000000004,1)",
+        "to_picked_color_val": [
+            233.00472,
+            233.00472,
+            243.98400000000004,
+            1
+        ],
+        "to_manifest_val": [
+            233,
+            233,
+            244
+        ]
+    },
+    {
+        "timestamp": 1590117456414,
+        "family": "colors",
+        "name": "omnibox_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(233.00472,233.00472,243.98400000000004,1)",
+        "from_picked_color_val": [
+            233.00472,
+            233.00472,
+            243.98400000000004,
+            1
+        ],
+        "from_manifest_val": [
+            233,
+            233,
+            244
+        ],
+        "to_val": "rgba(188.98787969999998,192.98332782,198.9765,1)",
+        "to_picked_color_val": [
+            188.98787969999998,
+            192.98332782,
+            198.9765,
+            1
+        ],
+        "to_manifest_val": [
+            189,
+            193,
+            199
+        ]
+    },
+    {
+        "timestamp": 1590117505240,
+        "family": "colors",
+        "name": "tab_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(0,246.993,104.99702429149812,1)",
+        "from_picked_color_val": [
+            0,
+            246.993,
+            104.99702429149812,
+            1
+        ],
+        "from_manifest_val": [
+            0,
+            247,
+            105
+        ],
+        "to_val": "rgba(79.99248,249.97650000000002,122.98843800000006,1)",
+        "to_picked_color_val": [
+            79.99248,
+            249.97650000000002,
+            122.98843800000006,
+            1
+        ],
+        "to_manifest_val": [
+            80,
+            250,
+            123
+        ]
+    },
+    {
+        "timestamp": 1590117524886,
+        "family": "colors",
+        "name": "tab_background_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(179.98981822112071,91.01064494999999,206.9835,1)",
+        "from_picked_color_val": [
+            179.98981822112071,
+            91.01064494999999,
+            206.9835,
+            1
+        ],
+        "from_manifest_val": [
+            180,
+            91,
+            207
+        ],
+        "to_val": "rgba(188.99198399999995,146.99897280000002,248.982,1)",
+        "to_picked_color_val": [
+            188.99198399999995,
+            146.99897280000002,
+            248.982,
+            1
+        ],
+        "to_manifest_val": [
+            189,
+            147,
+            249
+        ]
+    },
+    {
+        "timestamp": 1590117554535,
+        "family": "colors",
+        "name": "omnibox_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(188.98787969999998,192.98332782,198.9765,1)",
+        "from_picked_color_val": [
+            188.98787969999998,
+            192.98332782,
+            198.9765,
+            1
+        ],
+        "from_manifest_val": [
+            189,
+            193,
+            199
+        ],
+        "to_val": "rgba(161.0048682,238.98600000000002,227.98866089999999,1)",
+        "to_picked_color_val": [
+            161.0048682,
+            238.98600000000002,
+            227.98866089999999,
+            1
+        ],
+        "to_manifest_val": [
+            161,
+            239,
+            228
+        ]
+    },
+    {
+        "timestamp": 1590117602847,
+        "family": "colors",
+        "name": "ntp_background",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "from_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "from_manifest_val": [
+            58,
+            60,
+            78
+        ],
+        "to_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "to_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "to_manifest_val": [
+            29,
+            30,
+            39
+        ]
+    },
+    {
+        "timestamp": 1590117769345,
+        "family": "colors",
+        "name": "tab_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(79.99248,249.97650000000002,122.98843800000006,1)",
+        "from_picked_color_val": [
+            79.99248,
+            249.97650000000002,
+            122.98843800000006,
+            1
+        ],
+        "from_manifest_val": [
+            80,
+            250,
+            123
+        ],
+        "to_val": "rgba(233.98800000000003,81.00664560000003,177.99482453333343,1)",
+        "to_picked_color_val": [
+            233.98800000000003,
+            81.00664560000003,
+            177.99482453333343,
+            1
+        ],
+        "to_manifest_val": [
+            234,
+            81,
+            178
+        ]
+    },
+    {
+        "timestamp": 1590117814044,
+        "family": "colors",
+        "name": "tab_background_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(188.99198399999995,146.99897280000002,248.982,1)",
+        "from_picked_color_val": [
+            188.99198399999995,
+            146.99897280000002,
+            248.982,
+            1
+        ],
+        "from_manifest_val": [
+            189,
+            147,
+            249
+        ],
+        "to_val": "rgba(152.00346,170.9936238461538,177.98999999999998,1)",
+        "to_picked_color_val": [
+            152.00346,
+            170.9936238461538,
+            177.98999999999998,
+            1
+        ],
+        "to_manifest_val": [
+            152,
+            171,
+            178
+        ]
+    },
+    {
+        "timestamp": 1590117820306,
+        "family": "colors",
+        "name": "omnibox_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(161.0048682,238.98600000000002,227.98866089999999,1)",
+        "from_picked_color_val": [
+            161.0048682,
+            238.98600000000002,
+            227.98866089999999,
+            1
+        ],
+        "from_manifest_val": [
+            161,
+            239,
+            228
+        ],
+        "to_val": "rgba(152.00346,170.9936238461538,177.98999999999998,1)",
+        "to_picked_color_val": [
+            152.00346,
+            170.9936238461538,
+            177.98999999999998,
+            1
+        ],
+        "to_manifest_val": [
+            152,
+            171,
+            178
+        ]
+    },
+    {
+        "timestamp": 1590117874425,
+        "family": "tints",
+        "name": "buttons",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(97.985892,99.98590310399999,130.95310800000001,1)",
+        "from_manifest_val": [
+            0.6565555555555557,
+            0.14400000000000004,
+            0.4489
+        ],
+        "to_val": "rgba(152.00346,170.9936238461538,177.98999999999998,1)",
+        "to_manifest_val": [
+            0.544871794871795,
+            0.1443644214260215,
+            0.647046
+        ]
+    },
+    {
+        "timestamp": 1590117888897,
+        "family": "colors",
+        "name": "bookmark_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(97.99623734999999,99.99607144999999,130.99349999999998,1)",
+        "from_picked_color_val": [
+            97.99623734999999,
+            99.99607144999999,
+            130.99349999999998,
+            1
+        ],
+        "from_manifest_val": [
+            98,
+            100,
+            131
+        ],
+        "to_val": "rgba(152.00346,170.9936238461538,177.98999999999998,1)",
+        "to_picked_color_val": [
+            152.00346,
+            170.9936238461538,
+            177.98999999999998,
+            1
+        ],
+        "to_manifest_val": [
+            152,
+            171,
+            178
+        ]
+    },
+    {
+        "timestamp": 1590174532936,
+        "family": "colors",
+        "name": "frame",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "from_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "from_manifest_val": [
+            58,
+            60,
+            78
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590174538065,
+        "family": "colors",
+        "name": "frame_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "from_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "from_manifest_val": [
+            58,
+            60,
+            78
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590174543065,
+        "family": "colors",
+        "name": "frame_incognito",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "from_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "from_manifest_val": [
+            58,
+            60,
+            78
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590174548662,
+        "family": "colors",
+        "name": "frame_incognito_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "from_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "from_manifest_val": [
+            58,
+            60,
+            78
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590174616412,
+        "family": "colors",
+        "name": "toolbar",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590174643694,
+        "family": "colors",
+        "name": "toolbar",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "to_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "to_manifest_val": [
+            58,
+            60,
+            78
+        ]
+    },
+    {
+        "timestamp": 1590174647836,
+        "family": "colors",
+        "name": "frame",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "to_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "to_manifest_val": [
+            58,
+            60,
+            78
+        ]
+    },
+    {
+        "timestamp": 1590174650237,
+        "family": "colors",
+        "name": "frame_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "to_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "to_manifest_val": [
+            58,
+            60,
+            78
+        ]
+    },
+    {
+        "timestamp": 1590174652578,
+        "family": "colors",
+        "name": "frame_incognito",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "to_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "to_manifest_val": [
+            58,
+            60,
+            78
+        ]
+    },
+    {
+        "timestamp": 1590174654706,
+        "family": "colors",
+        "name": "frame_incognito_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "to_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "to_manifest_val": [
+            58,
+            60,
+            78
+        ]
+    },
+    {
+        "timestamp": 1590174703121,
+        "family": "colors",
+        "name": "toolbar",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "from_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "from_manifest_val": [
+            58,
+            60,
+            78
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590174727479,
+        "family": "colors",
+        "name": "tab_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(233.98800000000003,81.00664560000003,177.99482453333343,1)",
+        "from_picked_color_val": [
+            233.98800000000003,
+            81.00664560000003,
+            177.99482453333343,
+            1
+        ],
+        "from_manifest_val": [
+            234,
+            81,
+            178
+        ],
+        "to_val": "rgba(248.982,70.01373840000001,70.01373840000001,1)",
+        "to_picked_color_val": [
+            248.982,
+            70.01373840000001,
+            70.01373840000001,
+            1
+        ],
+        "to_manifest_val": [
+            249,
+            70,
+            70
+        ]
+    },
+    {
+        "timestamp": 1590174747373,
+        "family": "colors",
+        "name": "tab_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(248.982,70.01373840000001,70.01373840000001,1)",
+        "from_picked_color_val": [
+            248.982,
+            70.01373840000001,
+            70.01373840000001,
+            1
+        ],
+        "from_manifest_val": [
+            249,
+            70,
+            70
+        ],
+        "to_val": "rgba(255,85.01700000000001,85.01700000000001,1)",
+        "to_picked_color_val": [
+            255,
+            85.01700000000001,
+            85.01700000000001,
+            1
+        ],
+        "to_manifest_val": [
+            255,
+            85,
+            85
+        ]
+    },
+    {
+        "timestamp": 1590174848992,
+        "family": "colors",
+        "name": "tab_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(255,85.01700000000001,85.01700000000001,1)",
+        "from_picked_color_val": [
+            255,
+            85.01700000000001,
+            85.01700000000001,
+            1
+        ],
+        "from_manifest_val": [
+            255,
+            85,
+            85
+        ],
+        "to_val": "rgba(255,121.02300000000001,198.00978358208974,1)",
+        "to_picked_color_val": [
+            255,
+            121.02300000000001,
+            198.00978358208974,
+            1
+        ],
+        "to_manifest_val": [
+            255,
+            121,
+            198
+        ]
+    },
+    {
+        "timestamp": 1590174893575,
+        "family": "colors",
+        "name": "tab_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(255,121.02300000000001,198.00978358208974,1)",
+        "from_picked_color_val": [
+            255,
+            121.02300000000001,
+            198.00978358208974,
+            1
+        ],
+        "from_manifest_val": [
+            255,
+            121,
+            198
+        ],
+        "to_val": "rgba(233.98800000000003,81.00664560000003,177.99482453333343,1)",
+        "to_picked_color_val": [
+            233.98800000000003,
+            81.00664560000003,
+            177.99482453333343,
+            1
+        ],
+        "to_manifest_val": [
+            234,
+            81,
+            178
+        ]
+    },
+    {
+        "timestamp": 1590175025920,
+        "family": "colors",
+        "name": "ntp_background",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "from_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "from_manifest_val": [
+            29,
+            30,
+            39
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590175054114,
+        "family": "colors",
+        "name": "ntp_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "from_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "from_manifest_val": [
+            29,
+            30,
+            39
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590175057089,
+        "family": "colors",
+        "name": "ntp_link",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "from_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "from_manifest_val": [
+            29,
+            30,
+            39
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590175059744,
+        "family": "colors",
+        "name": "ntp_header",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "from_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "from_manifest_val": [
+            29,
+            30,
+            39
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590258422006,
+        "family": "theme_metadata",
+        "name": "name",
+        "locale": "en",
+        "from_val": "Dracula",
+        "to_val": "Dracula - Light"
+    },
+    {
+        "timestamp": 1590258456206,
+        "family": "colors",
+        "name": "toolbar",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "to_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "to_manifest_val": [
+            58,
+            60,
+            78
+        ]
+    },
+    {
+        "timestamp": 1590258490365,
+        "family": "colors",
+        "name": "toolbar",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "from_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "from_manifest_val": [
+            58,
+            60,
+            78
+        ],
+        "to_val": "rgba(39.626999999999995,41.71545,53.55,1)",
+        "to_picked_color_val": [
+            39.626999999999995,
+            41.71545,
+            53.55,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590258504217,
+        "family": "theme_metadata",
+        "name": "name",
+        "locale": "en",
+        "from_val": "Dracula - Light",
+        "to_val": "Dracula - Dark"
+    },
+    {
+        "timestamp": 1590258672546,
+        "family": "colors",
+        "name": "omnibox_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(152.00346,170.9936238461538,177.98999999999998,1)",
+        "from_picked_color_val": [
+            152.00346,
+            170.9936238461538,
+            177.98999999999998,
+            1
+        ],
+        "from_manifest_val": [
+            152,
+            171,
+            178
+        ],
+        "to_val": "rgba(233.00472,233.00472,243.98400000000004,1)",
+        "to_picked_color_val": [
+            233.00472,
+            233.00472,
+            243.98400000000004,
+            1
+        ],
+        "to_manifest_val": [
+            233,
+            233,
+            244
+        ]
+    },
+    {
+        "timestamp": 1590258761353,
+        "family": "colors",
+        "name": "toolbar",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.626999999999995,41.71545,53.55,1)",
+        "from_picked_color_val": [
+            39.626999999999995,
+            41.71545,
+            53.55,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590259096896,
+        "family": "colors",
+        "name": "background_tab",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(28.9775268,29.976174119999992,38.964,1)",
+        "from_picked_color_val": [
+            28.9775268,
+            29.976174119999992,
+            38.964,
+            1
+        ],
+        "from_manifest_val": [
+            29,
+            30,
+            39
+        ],
+        "to_val": "rgba(28.9775268,29.976174119999992,38.964,1)",
+        "to_picked_color_val": [
+            28.9775268,
+            29.976174119999992,
+            38.964,
+            1
+        ],
+        "to_manifest_val": [
+            29,
+            30,
+            39
+        ]
+    },
+    {
+        "timestamp": 1590259100896,
+        "family": "colors",
+        "name": "ntp_background",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "from_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "from_manifest_val": [
+            40,
+            42,
+            54
+        ],
+        "to_val": "rgba(28.305,29.299499999999995,38.25,1)",
+        "to_picked_color_val": [
+            28.305,
+            29.299499999999995,
+            38.25,
+            1
+        ],
+        "to_manifest_val": [
+            28,
+            29,
+            38
+        ]
+    },
+    {
+        "timestamp": 1590336446639,
+        "family": "theme_metadata",
+        "name": "name",
+        "locale": "en",
+        "from_val": "Dracula - Dark",
+        "to_val": "Dracula - test"
+    },
+    {
+        "timestamp": 1590336546979,
+        "family": "colors",
+        "name": "ntp_background",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(28.305,29.299499999999995,38.25,1)",
+        "from_picked_color_val": [
+            28.305,
+            29.299499999999995,
+            38.25,
+            1
+        ],
+        "from_manifest_val": [
+            28,
+            29,
+            38
+        ],
+        "to_val": "rgba(20.998806427500057,16.999980450000002,96.9765,1)",
+        "to_picked_color_val": [
+            20.998806427500057,
+            16.999980450000002,
+            96.9765,
+            1
+        ],
+        "to_manifest_val": [
+            21,
+            17,
+            97
+        ]
+    },
+    {
+        "timestamp": 1590336567764,
+        "family": "colors",
+        "name": "ntp_background",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(20.998806427500057,16.999980450000002,96.9765,1)",
+        "from_picked_color_val": [
+            20.998806427500057,
+            16.999980450000002,
+            96.9765,
+            1
+        ],
+        "from_manifest_val": [
+            21,
+            17,
+            97
+        ],
+        "to_val": "rgba(20.98218336,21.980999999999998,16.9869168,1)",
+        "to_picked_color_val": [
+            20.98218336,
+            21.980999999999998,
+            16.9869168,
+            1
+        ],
+        "to_manifest_val": [
+            21,
+            22,
+            17
+        ]
+    },
+    {
+        "timestamp": 1590336585690,
+        "family": "colors",
+        "name": "ntp_background",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(20.98218336,21.980999999999998,16.9869168,1)",
+        "from_picked_color_val": [
+            20.98218336,
+            21.980999999999998,
+            16.9869168,
+            1
+        ],
+        "from_manifest_val": [
+            21,
+            22,
+            17
+        ],
+        "to_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "to_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "to_manifest_val": [
+            29,
+            30,
+            39
+        ]
+    },
+    {
+        "timestamp": 1590336641610,
+        "family": "colors",
+        "name": "ntp_background",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(28.9925922,29.99228297999999,38.98949999999999,1)",
+        "from_picked_color_val": [
+            28.9925922,
+            29.99228297999999,
+            38.98949999999999,
+            1
+        ],
+        "from_manifest_val": [
+            29,
+            30,
+            39
+        ],
+        "to_val": "rgba(39.9909768,41.9899086857143,53.98350000000001,1)",
+        "to_picked_color_val": [
+            39.9909768,
+            41.9899086857143,
+            53.98350000000001,
+            1
+        ],
+        "to_manifest_val": [
+            40,
+            42,
+            54
+        ]
+    },
+    {
+        "timestamp": 1590336706530,
+        "family": "colors",
+        "name": "frame",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "from_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "from_manifest_val": [
+            58,
+            60,
+            78
+        ],
+        "to_val": "rgba(67.9960662,70.99517080909091,89.98949999999999,1)",
+        "to_picked_color_val": [
+            67.9960662,
+            70.99517080909091,
+            89.98949999999999,
+            1
+        ],
+        "to_manifest_val": [
+            68,
+            71,
+            90
+        ]
+    },
+    {
+        "timestamp": 1590336714032,
+        "family": "colors",
+        "name": "frame_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "from_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "from_manifest_val": [
+            58,
+            60,
+            78
+        ],
+        "to_val": "rgba(67.9960662,70.99517080909091,89.98949999999999,1)",
+        "to_picked_color_val": [
+            67.9960662,
+            70.99517080909091,
+            89.98949999999999,
+            1
+        ],
+        "to_manifest_val": [
+            68,
+            71,
+            90
+        ]
+    },
+    {
+        "timestamp": 1590336728448,
+        "family": "colors",
+        "name": "frame_incognito",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "from_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "from_manifest_val": [
+            58,
+            60,
+            78
+        ],
+        "to_val": "rgba(67.9960662,70.99517080909091,89.98949999999999,1)",
+        "to_picked_color_val": [
+            67.9960662,
+            70.99517080909091,
+            89.98949999999999,
+            1
+        ],
+        "to_manifest_val": [
+            68,
+            71,
+            90
+        ]
+    },
+    {
+        "timestamp": 1590336735779,
+        "family": "colors",
+        "name": "frame_incognito_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(57.9851844,59.98456595999998,77.97899999999998,1)",
+        "from_picked_color_val": [
+            57.9851844,
+            59.98456595999998,
+            77.97899999999998,
+            1
+        ],
+        "from_manifest_val": [
+            58,
+            60,
+            78
+        ],
+        "to_val": "rgba(67.9960662,70.99517080909091,89.98949999999999,1)",
+        "to_picked_color_val": [
+            67.9960662,
+            70.99517080909091,
+            89.98949999999999,
+            1
+        ],
+        "to_manifest_val": [
+            68,
+            71,
+            90
+        ]
+    },
+    {
+        "timestamp": 1590336962347,
+        "family": "colors",
+        "name": "frame_inactive",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(67.9960662,70.99517080909091,89.98949999999999,1)",
+        "from_picked_color_val": [
+            67.9960662,
+            70.99517080909091,
+            89.98949999999999,
+            1
+        ],
+        "from_manifest_val": [
+            68,
+            71,
+            90
+        ],
+        "to_val": "rgba(68.00506515000001,71.00294262954546,89.98949999999999,1)",
+        "to_picked_color_val": [
+            68.00506515000001,
+            71.00294262954546,
+            89.98949999999999,
+            1
+        ],
+        "to_manifest_val": [
+            68,
+            71,
+            90
+        ]
+    },
+    {
+        "timestamp": 1590504521787,
+        "family": "colors",
+        "name": "tab_text",
+        "was_default": false,
+        "was_disabled": false,
+        "set_to_default": false,
+        "from_val": "rgba(233.98800000000003,81.00664560000003,177.99482453333343,1)",
+        "from_picked_color_val": [
+            233.98800000000003,
+            81.00664560000003,
+            177.99482453333343,
+            1
+        ],
+        "from_manifest_val": [
+            234,
+            81,
+            178
+        ],
+        "to_val": "rgba(188.99198399999995,146.99897280000002,248.982,1)",
+        "to_picked_color_val": [
+            188.99198399999995,
+            146.99897280000002,
+            248.982,
+            1
+        ],
+        "to_manifest_val": [
+            189,
+            147,
+            249
+        ]
+    },
+    {
+        "timestamp": 1590544859554,
+        "family": "theme_metadata",
+        "name": "description",
+        "locale": "en",
+        "from_val": "Created by sublime9design to compliment niivu's Windows 10 Theme Suite, Dracula",
+        "to_val": "Created by sublime9design "
+    },
+    {
+        "timestamp": 1590544870779,
+        "family": "theme_metadata",
+        "name": "description",
+        "locale": "en",
+        "from_val": "Created by sublime9design ",
+        "to_val": "Created by sublime9design to compliment the Dracula Suite"
+    },
+    {
+        "timestamp": 1590544872688,
+        "family": "theme_metadata",
+        "name": "description",
+        "locale": "en",
+        "from_val": "Created by sublime9design to compliment the Dracula Suite",
+        "to_val": "Created by sublime9design to compliment the Dracula "
+    },
+    {
+        "timestamp": 1590544877922,
+        "family": "theme_metadata",
+        "name": "description",
+        "locale": "en",
+        "from_val": "Created by sublime9design to compliment the Dracula ",
+        "to_val": "Created by sublime9design to compliment the Dracula Theme Suite"
+    },
+    {
+        "timestamp": 1590544880761,
+        "family": "theme_metadata",
+        "name": "description",
+        "locale": "en",
+        "from_val": "Created by sublime9design to compliment the Dracula Theme Suite",
+        "to_val": "Created by sublime9design to compliment the Dracula Theme Suite."
+    },
+    {
+        "timestamp": 1590544883939,
+        "family": "theme_metadata",
+        "name": "name",
+        "locale": "en",
+        "from_val": "Dracula - test",
+        "to_val": "Dracula"
+    }
+]
