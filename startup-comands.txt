@@ -7,7 +7,7 @@ $ sudo pacman -Syu
 --- Configure Pacman ---
 
 
-$ sudo pacman -S vim nvim nano git neofetch reflector 
+$ sudo pacman -S vim neovim git neofetch reflector 
 
 $ sudo cp /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.bak 
 
