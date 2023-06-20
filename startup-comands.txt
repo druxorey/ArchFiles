@@ -33,7 +33,7 @@ $ install -Dm644 /usr/share/doc/sxhkd/examples/sxhkdrx .config/sxhkd/
 
 $ sudo systemctl enable bluetooth.service
 
-$ sudo pacman —S intel—ucode
+$ sudo pacman -S intel—ucode
 
 $ sudo cp /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.bak 
 
