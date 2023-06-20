@@ -23,7 +23,7 @@ $ sudo pacman -Sy
 --- BasicAplications ---
 
 
-$ sudo pacman -S thunar lxappearance picom nautilus nitrogen sxhkd dmenu kitty lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings vlc polybar gedit blueman bluez-utils blueman p7zip unrar tar rsync htop exfat-utils fuse-exfat curl wget trash-cli ranger thefuck tldr
+$ sudo pacman -S thunar lxappearance picom nautilus nitrogen sxhkd dmenu kitty lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings vlc polybar gedit blueman bluez-utils blueman p7zip unrar tar rsync htop exfat-utils fuse-exfat curl wget trash-cli ranger thefuck tldr xorg
 
 
 --- System Inicialization ---
@@ -31,11 +31,11 @@ $ sudo pacman -S thunar lxappearance picom nautilus nitrogen sxhkd dmenu kitty l
 
 & sudo systemctl enable lightdm
 
-$ mkdir p .config/{bspwm,sxhkd}
+$ mkdir -p .config/{bspwm,sxhkd}
 
 $ install -Dm755 /usr/share/doc/bspwm/examples/bspwmrx .config/bspwm/
 
-$ install -Dm755 /usr/share/doc/sxhkd/examples/sxhkdrx .config/sxhkd/
+$ install -Dm644 /usr/share/doc/sxhkd/examples/sxhkdrx .config/sxhkd/
 
 $ sudo systemctl enable bluetooth.service
 
