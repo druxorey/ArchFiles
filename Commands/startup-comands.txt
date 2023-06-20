@@ -4,20 +4,17 @@
 $ sudo pacman -Syu
 
 
+--- BasicAplications ---
+
+
+$ sudo pacman -S xorg thunar lxappearance picom nautilus nitrogen sxhkd dmenu kitty lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings vim neovim git neofetch 
+
+
 --- Configure Pacman ---
-
-
-$ sudo pacman -S vim neovim git neofetch 
 
 In 'sudo nano /etc/pacman.conf' Uncomment 'Color; ParallelDownloads = 5; IloveCandy'
 
 $ sudo pacman -Sy
-
-
---- BasicAplications ---
-
-
-$ sudo pacman -S thunar lxappearance picom nautilus nitrogen sxhkd dmenu kitty lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings vlc polybar gedit blueman bluez-utils blueman p7zip unrar tar rsync htop exfat-utils fuse-exfat curl wget trash-cli ranger thefuck tldr xorg reflector 
 
 
 --- System Inicialization ---
@@ -32,12 +29,6 @@ $ install -Dm755 /usr/share/doc/bspwm/examples/bspwmrx .config/bspwm/
 $ install -Dm644 /usr/share/doc/sxhkd/examples/sxhkdrx .config/sxhkd/
 
 $ sudo systemctl enable bluetooth.service
-
-$ sudo pacman -S intel—ucode
-
-$ sudo cp /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.bak 
-
-$ sudo reflector --verbose --latest 10 --protocol https --sort rate --save /etc/pacman.d/mirrorlist
 
 
 --- InstallingEdge ---

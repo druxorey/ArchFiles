@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo pacman -S thunar lxappearance picom nautilus nitrogen sxhkd dmenu kitty lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings vlc polybar gedit blueman bluez-utils blueman p7zip unrar tar rsync htop exfat-utils fuse-exfat curl wget trash-cli ranger thefuck tldr xorg reflector
+sudo pacman -S vlc polybar gedit blueman bluez-utils blueman p7zip unrar tar rsync htop exfat-utils fuse-exfat curl wget trash-cli ranger thefuck tldr
