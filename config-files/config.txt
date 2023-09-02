@@ -1,12 +1,3 @@
-intel-ucode
-
-bash-completion
-
-cups
-
-hplip
-
-
 --- basic aplications ---
 
 $ sudo pacman -S xorg bspwm sxhkd thunar lxappearance picom nautilus nitrogen sxhkd dmenu kitty lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings vim neovim git neofetch 
