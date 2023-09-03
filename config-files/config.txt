@@ -22,6 +22,8 @@ $ sudo ln -s /var/lib/snapd/snap /snap
 --- repositories programs ---
 
 $ sudo snap install code --classic
+$ sudo snap install brave
+
 $ sudo yay -S preload
 $ sudo systemctl enable preload && sudo systemctl start preload
 $ git clone https://github.com/AdnanHodzic/auto-cpufreq.git
