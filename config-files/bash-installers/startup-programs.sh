@@ -11,15 +11,6 @@ echo -e "\e[95m You will be installing the next packages: \e[0mxorg, bspwm, sxhk
 echo
 sudo pacman -S xorg bspwm sxhkd lxappearance picom nitrogen kitty lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings intel-ucode reflector
 
-# Reflector Configuration
-
-echo
-echo -e "\e[33m 2) Reflector Configuration"
-echo
-
-sudo cp /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.bak
-sudo reflector --verbose --latest 10 --protocol https --sort rate --save /etc/pacman.d/mirrorlist
-
 # Terminal Tools
 echo
 echo -e "\e[33m 3) Terminal Tools"
