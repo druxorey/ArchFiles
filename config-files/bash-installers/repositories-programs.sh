@@ -1,8 +1,10 @@
 #!/bin/bash
 
+sudo snap search
 sudo snap install code --classic
 sudo snap install brave
 sudo yay -S preload
+sudo yay -S notion-app
 sudo systemctl enable preload && sudo systemctl start preload
 
 echo

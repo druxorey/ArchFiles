@@ -25,6 +25,8 @@ echo -e "\e[95m You will be installing the next packages: \e[0mthunar, nautilus,
 echo
 sudo pacman -S thunar nautilus dmenu vlc polybar blueman bluez-utils jdk-openjdk flatpak 
 
+sudo pacman -R xdg-desktop-portal-gnome
+
 echo
 echo -e "\e[1m !All programs have been installed excessively!"
 echo
