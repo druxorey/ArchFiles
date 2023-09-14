@@ -2,12 +2,14 @@
 
 pgrep -x sxhkd > /dev/null || sxhkd &
 
-# AutoStart Aplications
+# Aplications`
+nitrogen --restore &
+polybar &
+picom &
+setxkbmap us -variant intl -model chromebook
 
-setxkbmap us -variant intl &
-nitrogen --restore 
-
-bspc monitor -d I II III IV V VI VII VIII IX X
+# BSPWM
+bspc monitor -d 󰊠 󰊠 󰊠 󰊠
 
 bspc config border_width         2
 bspc config window_gap           5
