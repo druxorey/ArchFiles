@@ -14,9 +14,9 @@ sudo pacman -S xorg bspwm sxhkd lxappearance picom nitrogen kitty lightdm lightd
 # Terminal Tools
 echo
 echo -e "\e[33m 3) Terminal Tools"
-echo -e "\e[95m You will be installing the next packages: \e[0mneovim, unzip, p7zip, unrar, tar, rsync, htop, exfat-utils, fuse-exfat, curl, wget, trash-cli, ranger, thefuck, tldr, gnome-keyring, usbutils, bash-completion, neofetch, vim, git, exa."
+echo -e "\e[95m You will be installing the next packages: \e[0mneovim, unzip, p7zip, unrar, tar, rsync, htop, exfat-utils, fuse-exfat, curl, wget, trash-cli, ranger, thefuck, tldr, gnome-keyring, usbutils, bash-completion, neofetch, vim, git, exa, ripgrep, fzf, ncdu, btop." 
 echo
-sudo pacman -S neovim unzip p7zip unrar tar rsync htop exfat-utils fuse-exfat curl wget trash-cli ranger thefuck tldr gnome-keyring usbutils bash-completion neofetch vim git exa
+sudo pacman -S neovim unzip p7zip unrar tar rsync htop exfat-utils fuse-exfat curl wget trash-cli ranger thefuck tldr gnome-keyring usbutils bash-completion neofetch vim git exa ripgrep fzf ncdu btop
 
 # Basic Programs
 echo
