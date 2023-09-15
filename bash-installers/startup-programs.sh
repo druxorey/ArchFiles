@@ -7,9 +7,9 @@ echo
 # Desktop Enviroment
 echo
 echo -e "\e[33m 1) Desktop Enviroment"
-echo -e "\e[95m You will be installing the next packages: \e[0mxorg, bspwm, sxhkd, lxappearance, picom, nitrogen, kitty, lightdm, lightdm-gtk-greeter, lightdm-gtk-greeter-settings and intel-ucode, reflector."
+echo -e "\e[95m You will be installing the next packages: \e[0mxorg, bspwm, sxhkd, lxappearance, picom, nitrogen, kitty, lightdm, lightdm-gtk-greeter, lightdm-gtk-greeter-settings, intel-ucode, reflector and libinput."
 echo
-sudo pacman -S xorg bspwm sxhkd lxappearance picom nitrogen kitty lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings intel-ucode reflector
+sudo pacman -S xorg bspwm sxhkd lxappearance picom nitrogen kitty lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings intel-ucode reflector libinput
 
 # Terminal Tools
 echo
