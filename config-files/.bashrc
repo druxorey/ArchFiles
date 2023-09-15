@@ -5,6 +5,8 @@
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
+neofetch
+
 alias ls='exa'
 alias ll='exa -alh'
 alias cat='bat'
