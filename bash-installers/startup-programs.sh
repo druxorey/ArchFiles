@@ -13,14 +13,14 @@ sudo pacman -S xorg bspwm sxhkd lxappearance picom nitrogen kitty lightdm lightd
 
 # Terminal Tools
 echo
-echo -e "\e[33m 3) Terminal Tools"
+echo -e "\e[33m 32) Terminal Tools"
 echo -e "\e[95m You will be installing the next packages: \e[0mneovim, gedit, unzip, p7zip, unrar, tar, rsync, htop, exfat-utils, fuse-exfat, curl, wget, trash-cli, ranger, thefuck, tldr, gnome-keyring, usbutils, gthumb, bash-completion, neofetch, vim and git."
 echo
 sudo pacman -S neovim gedit unzip p7zip unrar tar rsync htop exfat-utils fuse-exfat curl wget trash-cli ranger thefuck tldr gnome-keyring usbutils gthumb bash-completion neofetch vim git
 
 # Basic Programs
 echo
-echo -e "\e[33m 4) Basic Programs"
+echo -e "\e[33m 3 Basic Programs"
 echo -e "\e[95m You will be installing the next packages: \e[0mthunar, nautilus, dmenu, vlc, polybar, blueman, bluez-utils, jdk-openjdk and flatpak."
 echo
 sudo pacman -S thunar nautilus dmenu vlc polybar blueman bluez-utils jdk-openjdk flatpak 
