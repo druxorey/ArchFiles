@@ -7,6 +7,7 @@ This repository contains Arch Linux configuration files and application configur
 ## 1) Network Configuration
 
     $ iwctl
+    $ device list
     $ station <wlan> connect-hidden <Network Name>
 
 ## 2) Packages Configuration
