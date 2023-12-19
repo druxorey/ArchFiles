@@ -7,4 +7,4 @@ cd && sudo rm -r yay/
 
 yay -S visual-studio-code-bin
 yay -S notion-app
-yay -S microsoft-edge-stable-bin
+yay -S microsoft-edge-dev-bin

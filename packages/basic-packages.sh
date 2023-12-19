@@ -16,14 +16,14 @@ echo
 echo -e "\e[33m 32) Terminal Tools"
 echo -e "\e[95m You will be installing the next packages: \e[0m"
 echo
-sudo pacman -S neovim gedit unzip p7zip unrar tar rsync htop exfat-utils fuse-exfat curl wget trash-cli ranger thefuck tldr gnome-keyring usbutils gthumb bash-completion neofetch vim git bat btop speedtest-cli imagemagick exa tmux sxiv
+sudo pacman -S neovim gedit unzip p7zip unrar tar rsync htop exfat-utils fuse-exfat curl wget trash-cli ranger thefuck tldr gnome-keyring usbutils gthumb bash-completion neofetch vim git bat btop speedtest-cli imagemagick exa tmux sxiv ncdu
 
 # Basic Programs
 echo
 echo -e "\e[33m 3 Basic Programs"
 echo -e "\e[95m You will be installing the next packages: \e[0m"
 echo
-sudo pacman -S thunar nautilus dmenu vlc polybar jdk-openjdk flatpak 
+sudo pacman -S thunar nautilus dmenu vlc polybar jdk-openjdk flatpak pdfarranger
 
 sudo pacman -R xdg-desktop-portal-gnome
 
