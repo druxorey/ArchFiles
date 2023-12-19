@@ -13,13 +13,13 @@ https://wiki.archlinux.org/title/installation_guide
 
 The next section deals with initializing the arch before installing it on the system. Here, you'll need to run some commands to set up your keyboard and internet connection, plus some important additional information. These commands are essential for a successful installation and no problems later on.
 
-### 1.1) Keyboard layout
+## 1.1) Keyboard layout
 
 To load a keyboard layout, you use the `setxkbmap` command followed by the language of your choice. In case you want to load the international english layout, the command would be as follows:
 
     $ setxkbmap us -variant intl
 
-### 1.2) Network Configuration
+## 1.2) Network Configuration
 
 ***Note**: If the computer on which you are going to install Arch is connected by cable, you can skip the following part, as it is the configuration of the wireless connection.*
 
