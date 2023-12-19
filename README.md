@@ -27,10 +27,11 @@ We are gonna use the tool `iwctl` will be used for the internet configuration
 
     $ iwctl
 
-After executing the command you have to look for the technical name of your wifi card with the command `device list`, the name of your wifi card will be the one you will place in the **wlan** section.
+After executing the command you have to look for the technical name of your wifi card with the command `device list`.
 
     $ device list
 
+The name of your wifi card will be the one you will place in the **wlan** section.
 
     $ station <wlan> connect <Network Name>
 
