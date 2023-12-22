@@ -9,7 +9,7 @@ echo
 echo -e "\e[33m 1) Desktop Enviroment"
 echo -e "\e[95m You will be installing the next packages: \e[0m"
 echo
-sudo pacman -S xorg bspwm sxhkd lxappearance picom nitrogen kitty lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings intel-ucode reflector libinput timeshift blueman bluez-utils
+sudo pacman -S xorg bspwm sxhkd lxappearance picom nitrogen kitty lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings reflector libinput timeshift blueman bluez-utils
 
 # Terminal Tools
 echo

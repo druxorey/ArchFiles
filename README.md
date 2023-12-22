@@ -1,21 +1,27 @@
 # !!!! WARNING: THIS ARTICLE IS  STILL IN PROGRESS !!!!
 
 
-# Arch Installation
+# Arch Linux Installation Guide
 
-Welcome to this guide on how to install Arch Linux on your computer. This guide is based on the official Arch Linux documentation. However, the guide also includes some changes and suggestions for using some different commands that can facilitate the process or better suit your preferences. This repository also provides you with some customization files and program files that you can use to customize your system once installed.
 
-For more information, check out the official Arch Linux forum, where you'll find the official **Installation Guide**.
+Welcome to this guide on installing Arch Linux on your computer. This tutorial is rooted in the official Arch Linux documentation, ensuring that you’re receiving accurate and up-to-date information.
+
+In addition to the standard procedures, this guide introduces alternative commands and strategies designed to streamline the installation process and cater to your unique preferences. Whether you’re a seasoned Linux user or a newcomer to the world of open-source operating systems, you’ll find these modifications helpful in personalizing your Arch Linux experience.
+
+Beyond the installation, this guide also serves as a resource for system customization. Included in this repository are various configuration files and program scripts that you can utilize to rice your system to your needs once the installation is complete.
+
+For further information and support, the official Arch Linux forum is an invaluable resource. Here, you’ll find the official **Installation Guide**, along with a wealth of knowledge from the Arch Linux community.
+
 
 https://wiki.archlinux.org/title/installation_guide
 
-# 1) Pre-Installation
+# 1) Initial Configurations
 
-The next section deals with initializing the arch before installing it on the system. Here, you'll need to run some commands to set up your keyboard and internet connection, plus some important additional information. These commands are essential for a successful installation and no problems later on.
+The upcoming section focuses on initializing Arch Linux prior to its installation on the system. In this stage, you will be required to execute a series of commands to configure your keyboard and establish an internet connection, among other crucial settings. The successful execution of these commands is vital for a smooth installation process and to prevent potential issues in the future.
 
 ## 1.1) Keyboard layout
 
-To load a keyboard layout, you use the `setxkbmap` command followed by the language of your choice. In case you want to load the international english layout, the command would be as follows:
+To load a specific keyboard layout, the `setxkbmap` command is utilized, followed by the desired language code. For instance, if you wish to load the international English layout, the command would be executed as follows:
 
     $ setxkbmap us -variant intl
 
@@ -39,22 +45,123 @@ The name of your wifi card will be the one you will place in the **wlan** sectio
 
 After this, it is advisable to test the connection with the `ping` command.
 
-# 2) Installation
+# 2) Pre-Installation
 
 If you want a simple installation, you can use **archinstall**, however this is not 100% reliable and I recommend installing it manually.
 
 ## 2.1) Partitioning disk
 
-We are gonna use the `cfdisk` tool to partition the disk into three parts: boot, swap, and root. It is recommended that the label type be gpt, as it is the most common in UEFI systems. In addition, you probably already have partitions created from the previous operating system, so you will need to delete all partitions.
+We will be using the `cfdisk` tool to partition the disk into three sections: boot, swap, and root. It is advisable to use the **gpt** label type, as it is prevalent in UEFI systems. If you have partitions already created from a previous operating system, you will need to delete all of them.
 
- - The boot partition is recommended to be 100M in size
- - The swap partition should be a power of 2 (2, 4, 8, 16 and so on), this depending on the size of the hard drive, in this case it is recommended that the swap be at least 8GB.
- - Use the rest of the hard drive for the root partition.
+- **The boot partition**: It is recommended to allocate 100M for the boot partition. This partition is essential for the system to boot up.
+- **The swap partition**: The size of the swap partition should be a power of 2 (2, 4, 8, 16, etc.), depending on the size of your hard drive. In this case, it is recommended that the swap partition be at least 8GB. The swap partition acts as an overflow for your system memory, ensuring smooth operation when your RAM is fully utilized.
+- **The root partition**: Allocate the remaining hard drive space to the root partition. This partition will contain your operating system, applications, and files.
 
-In the end, we are going to write the changes and then exit the cfdisk tool.
+Once you have partitioned the disk, write the changes and exit the `cfdisk` tool.
 
-Con el comando lsblk puedes listar 
+To list the partitions and track your progress, use the `lsblk` command. This command is crucial for confirming the ID, size, and type of the partitions.
 
+## 2.2) Formating the Partitions
+
+You have to format the 3 partitions that we have made, first you have to format the **root** partition, this is done with the following command:
+
+    $ mkfs.ext4 /dev/sda3
+
+Then you need to format the boot partition with the following command:
+
+    $ mkfs.fat -F 32 /dev/sda1
+
+And finally let's format the swap partition:
+
+    $ mkswap /dev/sda2
+
+
+Sure, I'd be happy to help you improve and expand your Arch Linux installation guide. Here's a revised version of your text:
+
+## 2.2) Formatting the Partitions
+
+In this step, we will format the three partitions that we have created. 
+
+1. **Root Partition**: The first partition we need to format is the root partition. This can be accomplished using the command below:
+
+        $ mkfs.ext4 /dev/sda3
+
+    This command formats the partition as an ext4 filesystem, which is a common choice for Linux installations due to its robustness and excellent performance.
+
+2. **Boot Partition**: Next, we will format the boot partition. The boot partition is crucial for the system startup process. Use the following command to format it:
+
+        $ mkfs.fat -F 32 /dev/sda1
+
+    This command formats the partition with a FAT32 filesystem. FAT32 is commonly used for boot partitions as it is universally supported by almost all operating systems.
+
+3. **Swap Partition**: Finally, we will set up the swap partition. The swap partition is used as a 'backup' for your system's physical memory, providing extra resources if your system runs out of RAM. Use the following command to format it:
+
+        $ mkswap /dev/sda2
+
+    This command initializes the partition to be used as swap space.
+
+Remember to replace `/dev/sdaX` with your actual partition paths if they are different. Always double-check your commands before executing them to avoid data loss. 
+
+## 2.3) Mounting the Partitions
+
+In this step, we will be mounting the partitions. First, let's start with the **root** partition. You can mount it using the command below:
+
+    $ mount /dev/sda3 /mnt
+
+Next, we need to mount the **boot** partition. However, the required path does not exist yet. Therefore, we will create it using the following command:
+
+    $ mkdir -p /mnt/boot/efi
+
+With the path now created, we can proceed to mount the **boot** partition:
+
+    $ mount /dev/sda1 /mnt/boot/efi
+
+Lastly, the **swap** partition does not need to be mounted in the traditional sense. Instead, it needs to be activated. You can do this with the following command:
+
+    $ swapon /dev/sda2
+
+# 3) Installation
+
+## 3.1) Basic packages
+
+The installation process involves selecting the desired packages and mounting them in the `/mnt` directory. It is recommended to install at least the following packages: `base`, `linux`, `linux-firmware`, `base-devel`, `grub`, `efibootmgr`, `nano`, `networkmanager`, `git`, and `intel-ucode`.
+
+***Note**: For those using an AMD processor, it's necessary to install the `amd-ucode` package instead of `intel-ucode`.*
+
+To install these packages, use the command below:
+
+    $ pacstrap /mnt base linux linux-firmware base-devel grub efibootmgr nano networkmanager git intel-ucode
+
+This command will install the base system along with the Linux kernel and firmware, development tools, the GRUB bootloader, EFI boot manager, a basic text editor (nano), network manager, Git for version control, and microcode for Intel processors. Remember to replace `intel-ucode` with `amd-ucode` if you're using an AMD processor. This will ensure your system has the latest microcode updates from AMD. 
+
+After running this command, your system should have all the necessary packages installed to proceed with the next steps of the Arch Linux installation process. Remember to check the official Arch Linux documentation for any updates or changes to the installation process.
+
+Make sure that you have a working internet connection because `pacman` will download and install all of those packages from the repositories.
+
+Sure, I'd be happy to help you improve and expand your Arch Linux installation guide. Here's a revised version of your text:
+
+## 3.2) File System Tab
+
+Once you've installed the necessary tools, the next step is to generate a `fstab` file. This file is crucial as it allows your system to automatically mount partitions upon booting. 
+
+You can generate a `fstab` file using the following command:
+
+    $ genfstab /mnt
+
+This command will display information about the currently mounted files. However, you need to transfer this information to disk. To do this, you can redirect the output of the `genfstab` command to the `fstab` file located in the `/mnt/etc/` directory:
+
+    $ genfstab /mnt > /mnt/etc/fstab
+
+To ensure that the `fstab` file has been correctly generated, you can use the `cat` command to display its contents:
+
+    $ cat /mnt/etc/fstab
+
+The output should match the initial output of the `genfstab /mnt` command. If it does, then you've successfully generated your `fstab` file and are ready to proceed to the next step of the installation process.
+
+
+---
+---
+---
 
 ## Desktop inicialization
 
