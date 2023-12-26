@@ -158,10 +158,34 @@ To ensure that the `fstab` file has been correctly generated, you can use the `c
 
 The output should match the initial output of the `genfstab /mnt` command. If it does, then you've successfully generated your `fstab` file and are ready to proceed to the next step of the installation process.
 
+---
 
----
----
----
+## 3.3) Switching to the Installed System (Changing Root)
+
+In this step, we will transition into our newly installed system environment. To do this, we use the following command:
+
+    $ arch-chroot /mnt
+
+# 4) Internal Configuration
+
+## 4.1) Setting the Time Zone
+
+The first step in our internal configuration process is to set the system's time zone. This can be done by creating a symbolic link between our desired time zone and `/etc/localtime`. Replace **Continent** and **Country** with your specific location. After setting the time zone, we will check the system date and synchronize the hardware clock with the system clock. The commands are as follows:
+
+    $ ln -sf /usr/share/zoneinfo/Continent/Country /etc/localtime
+    $ date
+    $ hwclock --systohc
+
+## 4.2) Configuring Localization
+
+Next, we will configure the system's locale settings. This involves editing the `locale.gen` file to uncomment the line corresponding to our desired locale. In this case, we will be using `en_US.UTF-8 UTF-8`. After saving the changes, we generate the new locale configuration using the `locale-gen` command:
+
+    $ nano /etc/locale.gen
+    # Uncomment the line: en_US.UTF-8 UTF-8
+    $ locale-gen
+
+
+<!-- 
 
 ## Desktop inicialization
 
@@ -183,3 +207,5 @@ Run `startup-programs.sh` and `repositories-installer.sh` using the commands:
 
     $ sudo chmod +x (file)
     $ sh (file)
+
+ -->
