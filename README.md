@@ -240,9 +240,6 @@ In the sudoers file, locate and uncomment the line `%wheel ALL=(ALL) ALL`. This 
 
 Now, if we switch back to our new user and attempt to use sudo commands, we should be able to do so without encountering any errors.
 
-
-
-
 <!-- 
 
 ## Desktop inicialization
