@@ -278,6 +278,12 @@ Once the system is installed, it's recommended to retest the internet connection
 
     $ ping -c 3 www.google.com
 
+In the `/etc/pacman.conf` file, I highly recommend making a few adjustments to enhance your experience. First, find the line that reads `Color` and uncomment it. This will enable colored output, making it easier to read and understand the information displayed in your terminal. 
+
+Next, look for `ParallelDownloads` and set its value to 5. This allows for multiple packages to be downloaded simultaneously, speeding up the installation process.
+
+Finally, uncomment the `ILoveCandy` line. While this doesn't impact the functionality, it does replace the standard download progress bar with a fun, candy-themed one. It's a small touch, but it adds a bit of whimsy to your Arch Linux setup process."
+
 This repository contains various configuration tools that can assist you. However, this guide will focus on installing the BSPWM desktop environment. If you prefer to use a different graphical environment, please refer to the official Arch Wiki, which provides comprehensive guides for installing various [desktop environments](https://wiki.archlinux.org/title/Desktop_environment).
 
 Remember, the beauty of Arch Linux lies in its flexibility. You can customize your system to suit your preferences. Enjoy the journey of making Arch Linux your own!
